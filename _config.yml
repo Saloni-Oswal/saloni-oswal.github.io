@@ -3,9 +3,9 @@ logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Senior Frontend Engineer
   <br><br>
-  <a href="mailto:salonioswal22@gmail.com">salonioswal22@gmail.com</a>
+  <a href="mailto:salonioswal22@gmail.com" target="_blank">salonioswal22@gmail.com</a>
   <br>
-  <a href="https://www.linkedin.com/in/salonioswal/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/salonioswal/" target="_blank">LinkedIn</a>
   <br>
-  <a href="https://github.com/Saloni-Oswal">Github</a> 
+  <a href="https://github.com/Saloni-Oswal" target="_blank">Github</a> 
 theme: jekyll-theme-minimal
