@@ -22,7 +22,19 @@ Reliable | Proactive | Troubleshooter | Efficient
 
 <section id="skills" class="skills">
   <h1>Skills</h1>
-  Javascript | React | HTML | CSS | Bootstrap | Github | VSCode
+  <table>
+    <tbody>
+      <tr>
+        <td>Javascript</td>
+        <td>React</td>
+        <td>HTML</td>
+        <td>CSS</td>
+        <td>Bootstrap</td>
+        <td>Github</td>
+        <td>VSCode</td>
+      </tr>
+    </tbody>
+  </table>
 </section>
 
 ---
