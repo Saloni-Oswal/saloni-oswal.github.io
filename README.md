@@ -47,7 +47,7 @@ Reliable | Proactive | Troubleshooter | Efficient
       </ul>
       <li>Alias managament application</li>
       <ul>
-        <li>Contributed to the development and enhancement of the alias management application, collaborating closely with product managers, designers, and backend developers to deliver high-quality solutions.
+        <li>Contributed to the development and enhancement of the alias management application, collaborating closely with product managers, designers, and backend developers to deliver high-quality solutions.</li>
         <li>Worked closely with cross-functional teams including designers, backend developers, and QA engineers to deliver high-quality solutions that meet business objectives and user needs.</li>
         <li>Employed responsive design principles and accessibility best practices to cater to diverse user demographics and device types.</li>
       </ul>
