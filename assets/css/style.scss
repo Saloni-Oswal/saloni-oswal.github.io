@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: rgb(15 23 42);
+  color: rgb(226 232 240);
+}
+
+h1, h2, h3, h4, h5, h6, a, strong, header > p, li > b {
+  color: ghostwhite;
+}
+
+p, li {
+  color: rgb(148 163 184);
+}
+
+hr {
+  background: rgb(94 234 212);
+}
+
+table {
+  color: rgb(94 234 212);
+}
