@@ -18,40 +18,41 @@ div.radial-gradient {
 }
 
 body {
-  background-color: #0F172A;
-  color: #E2E8F0;
-  display: flex;
-  position: relative;
+    background-color: #0F172A;
+    color: #E2E8F0;
+    display: flex;
+    position: relative;
+    font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, a, strong, header > p, li > b {
-  color: ghostwhite;
+    color: ghostwhite;
 }
 
 a:hover, a:focus {
-  color: ghostwhite;
-  font-weight: bold;
+    color: ghostwhite;
+    font-weight: bold;
 }
 
 p, li {
-  color: #94A3B8;
+    color: #94A3B8;
 }
 
 hr {
-  background: #5EEAD4;
+    background: #5EEAD4;
 }
 
 table {
-  color: #5EEAD4;
+    color: #5EEAD4;
 }
 
 header > h1 {
-  text-align: center;
+    text-align: center;
 }
 
 header > h1 > div.title {
-  font-size: initial;
-  padding-top: 10px;
+    font-size: initial;
+    padding-top: 10px;
 }
 
 div.social-info {
@@ -66,21 +67,21 @@ div.social-icon {
 }
 
 div.social-icon > a {
-  padding-left: 8px;
+    padding-left: 8px;
 }
 
 div.wrapper {
-  display: flex;
-  flex: 1;
-  margin: 0 15%;
+    display: flex;
+    flex: 1;
+    margin: 0 15%;
 }
 
 header {
-  display: flex;
-  flex-direction: column;
-  position: sticky;
-  max-height: 100vh;
-  top: 0;
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    max-height: 100vh;
+    top: 0;
 }
 
 main#content {
@@ -90,39 +91,48 @@ main#content {
 }
 
 section {
-  // display: flex;
-  // flex-direction: column;
-  // position: unset;
-  // padding-left: 10%;
-  // flex: 1;
-  width: auto;
+    width: auto;
+}
+
+tr {
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+}
+
+td {
+    border-bottom: none;
+    color: #5EEAD4;
+    background-color: #134E4A;
+    border-radius: 25px;
+    margin-right: 10px;
 }
 
 @media print, screen and (max-width: 1024) and (min-width 960px) {
-  div.wrapper {
-    margin: 0 8%;
-  }
+    div.wrapper {
+        margin: 0 8%;
+    }
 }
 
 @media print, screen and (max-width: 960px) {
 
-  div.wrapper {
-    flex-direction: column;
-    margin: 0;
-  }
+    div.wrapper {
+        flex-direction: column;
+        margin: 0;
+    }
   
-  section {
-    border: 1px solid #5EEAD4;
-    padding-left: 0px;
-  }
+    section {
+        border: 1px solid #5EEAD4;
+        padding-left: 0px;
+      }
 
-  main#content {
-      padding-left: 0px;
-  }
+    main#content {
+        padding-left: 0px;
+    }
   
-  header {
-    padding-right: 0px;
-    top: auto;
-    max-height: fit-content;
-  }
+    header {
+        padding-right: 0px;
+        top: auto;
+        max-height: fit-content;
+    }
 }
