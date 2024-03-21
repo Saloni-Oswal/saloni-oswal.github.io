@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6, a, strong, header > p, li > b {
 
 a:hover, a:focus {
     color: ghostwhite;
-    font-weight: bold;
+    // font-weight: bold;
 }
 
 p, li {
@@ -64,9 +64,7 @@ div.social-icon {
     display: flex;
     align-items: center;
     padding: 4px 0;
-}
-
-div.social-icon > a {
+    a {
     padding-left: 8px;
 }
 
@@ -88,16 +86,16 @@ header {
     top: 0;
     width: auto;
     padding: 50px 0;
-}
-
-header > h1 > div.title {
-    font-size: initial;
-    padding-top: 10px;
-}
-
-header > p > img {
-    height: 270px;
-    width: 270px;
+    h1 {
+        div.title {
+            font-size: initial;
+            padding-top: 10px;
+        }
+    }
+    p > img {
+        height: 270px;
+        width: 270px;
+    }
 }
 
 main#content {
@@ -108,7 +106,6 @@ main#content {
 }
 
 section {
-    // width: auto;
     width: 100%;
     padding: 0px;
     border: none;
@@ -139,9 +136,11 @@ td {
 
 
 footer {
-    position: inherit;
+    position: relative;
+    padding-bottom: 10px;
     p {
         font-size: 0.875rem;
+        margin: 0px;
     }
 }
 
