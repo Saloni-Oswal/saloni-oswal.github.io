@@ -41,6 +41,8 @@ Meticulous Frontend Engineer with a demonstrated history of working in the tech 
 <li>Worked on enhancing closed caption feature an existing Web RTC project having audio-to-text functionality. Developed an edit feature for generated closed captions. The tech stack used was React and BaconJS.</li>
 <li> In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects.</li>
 
+<br />
+
 ---
 
 # Education
