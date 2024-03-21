@@ -1,8 +1,8 @@
 title: Saloni Oswal
-logo: "/profile.png?raw=true"
 description: >
  Senior Frontend Engineer
-  <br><br>
+  <br>
+  <img src="/profile.png?raw=true" alt="Logo" />
   <div class="social-info">
    <div class="social-icon">
     <svg class="octicon octicon-mail" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" fill="currentColor" role="img">
