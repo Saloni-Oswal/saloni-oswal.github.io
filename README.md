@@ -6,7 +6,7 @@ Reliable | Proactive | Troubleshooter | Efficient
   </p>
   
   <p>
-  After a professionally employment of ~6 years in India until Nov'22, I got married and moved to USA in Jan'23. Living in the heart of New York City, I thoroughly enjoy being the busy city girl whilst not being too busy technically. This past 1.2~ years of not being employed due to VISA dependencies, I took my sweet time off travelling, learning the culinary art, and painting.
+  After a professional employment of ~6 years in India until Nov'22, I got married and moved to USA in Jan'23. Living in the heart of New York City, I thoroughly enjoy being the busy city girl whilst not being too busy technically. This past 1.2~ years of not being employed due to VISA dependencies, I took my sweet time off travelling, learning the culinary art, and painting.
 </p>
 
   <p>
@@ -17,6 +17,12 @@ Reliable | Proactive | Troubleshooter | Efficient
     When I’m not at the computer, I’m usually strolling in the city, sipping coffee and clicking pictures of people and buildings around, hanging out with my husband doing any outdoor adventure, or playing board games with friends.
   </p>
 </section>
+
+---
+
+# Skills
+
+Javascript | React | HTML | CSS | Bootstrap | Github | VSCode
 
 ---
 
