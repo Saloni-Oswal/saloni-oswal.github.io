@@ -113,6 +113,12 @@ section.about {
     margin: 20px 0 60px 0;
 }
 
+section.experience {
+    h2:not(:first-child) {
+        margin-top: 10px;
+    }
+}
+    
 h1 {
     font-size: 1.4rem;
 }
