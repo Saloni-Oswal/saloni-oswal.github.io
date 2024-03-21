@@ -106,6 +106,19 @@ section {
     border: none;
 }
 
+h1 {
+    font-size: 1.6rem;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+header > p, li {
+    font-size: 1rem;
+    line-height: 1.8rem;
+}
+
 tr {
     display: flex;
     flex: 1;
