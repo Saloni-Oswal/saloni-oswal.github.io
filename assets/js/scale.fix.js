@@ -1,18 +1,8 @@
 (function(document) {
 
      const changeRadialGradient = function(event) {
-
           const gradientDiv = document.querySelector('.radial-gradient');
-          
-          windowWidth = window.innerWidth;
-          windowHeight = window.innerHeight;
-                    
-          mouseXpercentage = event.pageX / windowWidth * 100;
-          mouseYpercentage = event.pageY / windowHeight * 100;
-
-          // gradientDiv.style.background = 'radial-gradient(600px at ' + mouseXpercentage + '% ' + mouseYpercentage + '%, rgba(29, 78, 216, 0.15), transparent 80%';
           gradientDiv.style.background = 'radial-gradient(600px at ' + event.pageX + 'px ' + event.pageY + 'px, rgba(29, 78, 216, 0.15), transparent 80%';
-          
      };
      
     var metas = document.getElementsByTagName('meta'),
