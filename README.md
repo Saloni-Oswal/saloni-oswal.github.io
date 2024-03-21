@@ -52,7 +52,9 @@ Reliable | Proactive | Troubleshooter | Efficient
         <li>Employed responsive design principles and accessibility best practices to cater to diverse user demographics and device types.</li>
       </ul>
     </ol>
-In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored junior team members conducted code reviews to maintain code quality to achieve high performance and meet project goals.
+ <span class="experience-summary">
+   In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored junior team members conducted code reviews to maintain code quality to achieve high performance and meet project goals.
+ </span>
     <h2>Software engineer, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
       <ol>
         <li>E-commerce website</li>
@@ -75,10 +77,11 @@ In my tenure of 3 years with Synechron, in addition to development, I supervised
          <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience.</li>
          <li>Conducted usability testing and gathered feedback to iterate on caption styling options, ensuring optimal readability and user satisfaction across different devices and environments.</li>
          <li>Ensured cross-browser compatibility and responsive design to deliver a consistent user experience across desktop and mobile devices.</li>
-         </li>
        </ul>
       </ol>
-In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects, led development team, and contributed in developing MVPs for potential clients.
+ <span class="experience-summary">
+    In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects, led development team, and contributed in developing MVPs for potential clients.
+  </span>
 </section>
 
 
