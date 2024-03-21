@@ -137,6 +137,14 @@ td {
     margin-right: 10px;
 }
 
+
+footer {
+    position: inherit;
+    p {
+        font-size: 0.875rem;
+    }
+}
+
 @media print, screen and (max-width: 1024) and (min-width 960px) {
     div.wrapper {
         margin: 0 8%;
