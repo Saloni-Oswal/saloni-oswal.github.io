@@ -43,6 +43,8 @@ a:hover, a:focus {
 
 p, li {
     color: #94A3B8;
+    font-size: 1rem;
+    line-height: 1.8rem;
 }
 
 hr {
@@ -117,11 +119,6 @@ h1 {
 
 h2 {
     font-size: 1rem;
-}
-
-header > p, li {
-    font-size: 1rem;
-    line-height: 1.8rem;
 }
 
 tr {
