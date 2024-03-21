@@ -24,6 +24,7 @@ body {
     display: flex;
     position: relative;
     font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 0px;
 }
 
 h1, h2, h3, h4, h5, h6, a, strong, header > p, li > b {
@@ -45,6 +46,10 @@ hr {
 
 table {
     color: #5EEAD4;
+}
+
+header {
+    padding: 50px 0;
 }
 
 header > h1 {
@@ -88,7 +93,7 @@ header {
 main#content {
     display: flex;
     flex-direction: column;
-    padding-left: 10%;
+    padding: 50px 0 50px 10%;
 }
 
 section {
