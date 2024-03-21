@@ -11,12 +11,17 @@ div.radial-gradient {
     z-index: 30;
     inset: 0;
     pointer-events: none;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
 }
 
 body {
   background-color: #0F172A;
   color: #E2E8F0;
   display: flex;
+  position: relative;
 }
 
 h1, h2, h3, h4, h5, h6, a, strong, header > p, li > b {
