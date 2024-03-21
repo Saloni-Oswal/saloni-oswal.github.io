@@ -76,6 +76,7 @@ header {
     flex: 0.5;
     align-items: center;
     position: sticky;
+    height: max-content;
     max-height: 100vh;
     top: 0;
     width: auto;
@@ -101,6 +102,8 @@ main#content {
 
 section {
     width: auto;
+    padding: 0px;
+    border: none;
 }
 
 tr {
