@@ -4,10 +4,16 @@
      gradientDiv.addEventListener('mousemove', event => {
        windowWidth = window.innerWidth;
        windowHeight = window.innerHeight;
-       
+
+          console.log(windowWidth);
+          console.log(windowHeight);
+          
        mouseXpercentage = Math.round(event.pageX / windowWidth * 100);
        mouseYpercentage = Math.round(event.pageY / windowHeight * 100);
-       
+
+          console.log(mouseXpercentage);
+          console.log(mouseYpercentage);
+          
        gradientDiv.style.background = 'radial-gradient(at ' + mouseXpercentage + '% ' + mouseYpercentage + '%, rgba(29, 78, 216, 0.15), transparent 80%';
      });
      
