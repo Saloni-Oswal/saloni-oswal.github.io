@@ -39,6 +39,7 @@
         document.addEventListener("touchend", gestureEnd, false);
     }
 
-    document.addEventListener("mousemove", changeRadialGradient, false);
-          
+     window.addEventListener('load',function(){
+        document.addEventListener("mousemove", changeRadialGradient, false);
+     });      
 })(document);
