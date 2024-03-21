@@ -26,20 +26,6 @@ Javascript | React | HTML | CSS | Bootstrap | Github | VSCode
 
 ---
 
-# Skills
-
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40" title="HTML" />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40" title="CSS" />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js" title="JavaScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40" title="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="vscode" width="auto" height="40" title="Visual Studio Code" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="vscode" width="auto" height="40" title="Github" />
-  
-</p>
-
----
-
 # Experience
 
 ## **Senior Associate - Technology**, <a href="https://www.synechron.com/">Synechron, Pune India</a> (Jun'19 - Nov'22)
