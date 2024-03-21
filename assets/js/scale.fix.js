@@ -1,6 +1,7 @@
 (function(document) {
 
-     const changeRadialGradient = () => {
+     const changeRadialGradient = function() {
+          console.log("Event listerner is added");
           const gradientDiv = document.querySelector('.radial-gradient');
           gradientDiv.addEventListener('mousemove', event => {
                console.log("HERE");
@@ -40,7 +41,6 @@
     }
 
      window.addEventListener('load', function() {
-          console.log("Window loaded");
-        document.addEventListener("mousemove", changeRadialGradient, false);
+        window.addEventListener("mousemove", changeRadialGradient, false);
      });      
 })(document);
