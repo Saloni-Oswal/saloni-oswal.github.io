@@ -1,17 +1,10 @@
 (function(document) {
 
-     const changeRadialGradient = function() {
+     const changeRadialGradient = function(event) {
 
           const gradientDiv = document.querySelector('.radial-gradient');
           windowWidth = window.innerWidth;
           windowHeight = window.innerHeight;
-
-          const rect = gradientDiv.getBoundingClientRect();
-            const x = gradientDiv.clientX - rect.left;
-            const y = gradientDiv.clientY - rect.top;
-          console.log(rect);
-          console.log(x);
-          console.log(y);
           mouseXpercentage = Math.round(event.pageX / windowWidth * 100);
           mouseYpercentage = Math.round(event.pageY / windowHeight * 100);
 
