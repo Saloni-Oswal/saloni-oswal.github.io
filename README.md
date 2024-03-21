@@ -1,8 +1,22 @@
-# Portfolio
-
 Reliable | Proactive | Troubleshooter | Efficient
 
-Meticulous Frontend Engineer with a demonstrated history of working in the tech industry for over 6 years. Skilled in Javascript, React, Cascading Style Sheets (CSS), and jQuery, blending the art of design and programming skills to develop responsive and accessible web applications. Strong engineering professional with a MS focused in Computer Science.
+<section id="about" class="about">
+  <p>
+    Back in 2016, after finishing my masters in computer science, I decided to try my hand at creating a custom static website and got into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building software for an e-commerce client, a huge multi national banking corporation, and few other MVPs for other clients.
+  </p>
+  
+  <p>
+  After a professionally employment of ~6 years in India until Nov'22, I got married and moved to USA in Jan'23. Living in the heart of New York City, I thoroughly enjoy being the busy city girl whilst not being too busy technically. This past 1.2~ years of not being employed due to VISA dependencies, I took my sweet time off travelling, learning the culinary art, and painting.
+</p>
+
+  <p>
+  It was not too long, and I started to miss coding and developing websites! I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood.
+  </p>
+  
+  <p>
+    When I’m not at the computer, I’m usually strolling in the city, sipping coffee and clicking pictures of people and buildings around, hanging out with my husband doing any outdoor adventure, or playing board games with friends.
+  </p>
+</section>
 
 ---
 
