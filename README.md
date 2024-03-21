@@ -18,8 +18,6 @@ Reliable | Proactive | Troubleshooter | Efficient
   </p>
 </section>
 
----
-
 <section id="skills" class="skills">
   <h1>Skills</h1>
   <table>
@@ -36,8 +34,6 @@ Reliable | Proactive | Troubleshooter | Efficient
     </tbody>
   </table>
 </section>
-
----
 
 <section id="experience" class="experience">
  <h1>Experience</h1>
@@ -61,7 +57,6 @@ Reliable | Proactive | Troubleshooter | Efficient
   </p>
 </section>
 
----
 
 <section id="education" class="education">
  <h1>Education</h1>
