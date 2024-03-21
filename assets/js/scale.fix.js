@@ -39,7 +39,8 @@
         document.addEventListener("touchend", gestureEnd, false);
     }
 
-     window.addEventListener('load',function(){
+     window.addEventListener('load', function() {
+          console.log("Window loaded");
         document.addEventListener("mousemove", changeRadialGradient, false);
      });      
 })(document);
