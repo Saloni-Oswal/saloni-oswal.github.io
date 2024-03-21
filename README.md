@@ -6,7 +6,7 @@ Reliable | Proactive | Troubleshooter | Efficient
   </p>
   
   <p>
-  After a professional employment of ~6 years in India until Nov'22, I got married and moved to USA in Jan'23. Living in the heart of New York City, I thoroughly enjoy being the busy city girl whilst not being too busy technically. This past 1.2~ years of not being employed due to VISA dependencies, I took my sweet time off travelling, learning the culinary art, and painting.
+  After a professional employment of ~6 years in India until Nov'22, during the period from Nov'22 to Feb'23, I took a deliberate hiatus from my professional career to navigate a transition in my immigration status from H4 visa to EAD. This gap allowed me the opportunity to focus on personal growth, family commitments, and navigating the complexities of the immigration process. Despite not being formally employed during this time, I remained proactive in honing my skills through reading about new technologies and frameworks in React, and practising building of static websites, ensuring that I stayed abreast of industry trends and developments. Now equipped with my EAD status, I am eager to re-enter the workforce with renewed dedication, enthusiasm, and a wealth of experiences that have shaped me both personally and professionally.
 </p>
 
   <p>
@@ -37,24 +37,48 @@ Reliable | Proactive | Troubleshooter | Efficient
 
 <section id="experience" class="experience">
  <h1>Experience</h1>
-  <p>
-    <h2>Senior Associate - Technology**, <a href="https://www.synechron.com/">Synechron, Pune India</a> (Jun'19 - Nov'22)</h2>
-    <li> Worked on migration of a commercial banking web application for HSBC, from DOJO to React. </li>
-    <li>This web application facilitates customers around the globe to make regional and global instant payments, cross-currency payments, bulk payments, create payment templates.</li>
-    <li>Development involved implementation of latest React features like hooks and functional components, along with integration of REST APIs.</li>
-    <li>Project architecture had a backend driven approach i.e., user interface was rendered based on a response received from backend using REST API.</li>
-    <li>Working structure was an AGILE SCRUM environment, with quarterly production releases, and complete development support for end-to-end production lifecyle.</li>
-    <li>Project documentation saving on-boarding time of ~1 week for new team members.</li>
-    <li>In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored 4 junior team members to achieve high performance and meet project goals.</li>
-  </p>
-
-  <p>
+    <h2>Senior Associate - Technology, <a href="https://www.synechron.com/">Synechron, Pune India</a> (Jun'19 - Nov'22)</h2>
+    <ol>
+      <li>Commercial banking application</li>
+      <ul>
+        <li>Played a key role in the ongoing development and enhancement of the bank's commercial banking web application, contributing to feature ideation, technical design, and implementation.</li>
+        <li>Actively participated in sprint planning, backlog grooming, and retrospectives to prioritize tasks, refine requirements, and improve team efficiency and collaboration.</li>
+        <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>
+      </ul>
+      <li>Alias managament application</li>
+      <ul>
+        <li>Contributed to the development and enhancement of the alias management application, collaborating closely with product managers, designers, and backend developers to deliver high-quality solutions.
+        <li>Worked closely with cross-functional teams including designers, backend developers, and QA engineers to deliver high-quality solutions that meet business objectives and user needs.</li>
+        <li>Employed responsive design principles and accessibility best practices to cater to diverse user demographics and device types.</li>
+      </ul>
+    </ol>
+In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored junior team members conducted code reviews to maintain code quality to achieve high performance and meet project goals.
     <h2>Software engineer, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
-    <li> Built a React Native mobile application involving basic functionalities like user login, authentication, push notifications, SMS and email service integration, localization, white-labeling, in-app chat feature, and payment gateway integration.</li>
-    <li>Built an e-commerce React Native MVP mobile application for Pepsi (Kuwait) for promoting sales between wholesalers. This involved localization in arabic and white-labeling for different stakeholders.</li>
-    <li>Worked on enhancing closed caption feature an existing Web RTC project having audio-to-text functionality. Developed an edit feature for generated closed captions. The tech stack used was React and BaconJS.</li>
-    <li> In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects.</li>
-  </p>
+      <ol>
+        <li>E-commerce website</li>
+        <ul>
+        <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely.</li>
+        <li>Implemented features such as user authentication, product search, and dynamic filtering for an enhanced shopping experience.</li>
+        <li>Collaborated closely with stakeholders to understand business requirements and translate them into scalable and maintainable frontend components and features.</li>
+          <li>Worked closely with cross-functional teams including designers, backend developers, and QA engineers to deliver high-quality solutions that meet business objectives and user needs.</li>
+        </ul>
+      <li>Cross platform mobile application</li>
+      <ul>
+        <li>Developed a feature-rich mobile application using React Native, ensuring a consistent user experience across iOS and Android platforms.</li>
+        <li>Implemented complex UI components and navigational flows, leveraging React Native's native capabilities for optimal performance and responsiveness.</li>
+        <li>Integrated third-party APIs for functionalities such as geolocation, push notifications, and social media authentication, enhancing app functionality and user engagement.</li>
+        <li>Collaborated with designers to ensure pixel-perfect implementation of UI components and adherence to brand guidelines.</li>
+      </ul>
+       <li>Customizable Caption Styles</li>
+       <ul>
+         <li>Designed and implemented a feature allowing users to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
+         <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience.</li>
+         <li>Conducted usability testing and gathered feedback to iterate on caption styling options, ensuring optimal readability and user satisfaction across different devices and environments.</li>
+         <li>Ensured cross-browser compatibility and responsive design to deliver a consistent user experience across desktop and mobile devices.</li>
+         </li>
+       </ul>
+      </ol>
+In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects, led development team, and contributed in developing MVPs for potential clients.
 </section>
 
 
