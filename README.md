@@ -20,44 +20,41 @@ Reliable | Proactive | Troubleshooter | Efficient
 
 ---
 
-# Skills
 <section id="skills" class="skills">
+  <h1>Skills</h1>
   Javascript | React | HTML | CSS | Bootstrap | Github | VSCode
 </section>
 
 ---
 
-# Experience
-
 <section id="experience" class="experience">
- 
-  ## **Senior Associate - Technology**, <a href="https://www.synechron.com/">Synechron, Pune India</a> (Jun'19 - Nov'22)
-  
-  <li> Worked on migration of a commercial banking web application for HSBC, from DOJO to React. </li>
-  <li>This web application facilitates customers around the globe to make regional and global instant payments, cross-currency payments, bulk payments, create payment templates.</li>
-  <li>Development involved implementation of latest React features like hooks and functional components, along with integration of REST APIs.</li>
-  <li>Project architecture had a backend driven approach i.e., user interface was rendered based on a response received from backend using REST API.</li>
-  <li>Working structure was an AGILE SCRUM environment, with quarterly production releases, and complete development support for end-to-end production lifecyle.</li>
-  <li>Project documentation saving on-boarding time of ~1 week for new team members.</li>
-  <li>In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored 4 junior team members to achieve high performance and meet project goals.</li>
-  
-  <br />
-  
-  ## **Software engineer**, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)
-  
-  <li> Built a React Native mobile application involving basic functionalities like user login, authentication, push notifications, SMS and email service integration, localization, white-labeling, in-app chat feature, and payment gateway integration.</li>
-  <li>Built an e-commerce React Native MVP mobile application for Pepsi (Kuwait) for promoting sales between wholesalers. This involved localization in arabic and white-labeling for different stakeholders.</li>
-  <li>Worked on enhancing closed caption feature an existing Web RTC project having audio-to-text functionality. Developed an edit feature for generated closed captions. The tech stack used was React and BaconJS.</li>
-  <li> In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects.</li>
-  <br />
+ <h1>Experience</h1>
+  <p>
+    <h2>Senior Associate - Technology**, <a href="https://www.synechron.com/">Synechron, Pune India</a> (Jun'19 - Nov'22)</h2>
+    <li> Worked on migration of a commercial banking web application for HSBC, from DOJO to React. </li>
+    <li>This web application facilitates customers around the globe to make regional and global instant payments, cross-currency payments, bulk payments, create payment templates.</li>
+    <li>Development involved implementation of latest React features like hooks and functional components, along with integration of REST APIs.</li>
+    <li>Project architecture had a backend driven approach i.e., user interface was rendered based on a response received from backend using REST API.</li>
+    <li>Working structure was an AGILE SCRUM environment, with quarterly production releases, and complete development support for end-to-end production lifecyle.</li>
+    <li>Project documentation saving on-boarding time of ~1 week for new team members.</li>
+    <li>In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored 4 junior team members to achieve high performance and meet project goals.</li>
+  </p>
+
+  <p>
+    <h2>Software engineer, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
+    <li> Built a React Native mobile application involving basic functionalities like user login, authentication, push notifications, SMS and email service integration, localization, white-labeling, in-app chat feature, and payment gateway integration.</li>
+    <li>Built an e-commerce React Native MVP mobile application for Pepsi (Kuwait) for promoting sales between wholesalers. This involved localization in arabic and white-labeling for different stakeholders.</li>
+    <li>Worked on enhancing closed caption feature an existing Web RTC project having audio-to-text functionality. Developed an edit feature for generated closed captions. The tech stack used was React and BaconJS.</li>
+    <li> In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects.</li>
+  </p>
 </section>
 
 ---
 
-# Education
 <section id="education" class="education">
-  
-  ## **Fergusson College, Pune, India**
+ <h1>Education</h1>
+  <p>
+  <h2>Fergusson College, Pune, India</h2>
   MS in Computer Science (2014- 2016) <br /> GPA: 3.2 / 4.0
-  
+  </p>
 </section>
