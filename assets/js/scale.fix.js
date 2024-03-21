@@ -1,11 +1,13 @@
 (function(document) {
-     document.onmousemove(function(event) {
-       windowWidth = window.width();
-       windowHeight = window.height();
+
+     const gradientDiv = document.querySelector('.radial-gradient');
+     gradientDiv.addEventListener('mousemove', event => {
+       windowWidth = window.innerWidth;
+       windowHeight = window.innerHeight;
        
        mouseXpercentage = Math.round(event.pageX / windowWidth * 100);
        mouseYpercentage = Math.round(event.pageY / windowHeight * 100);
-       const gradientDiv = document.querySelector('.radial-gradient');
+       
        gradientDiv.style.background = 'radial-gradient(at ' + mouseXpercentage + '% ' + mouseYpercentage + '%, rgba(29, 78, 216, 0.15), transparent 80%';
      });
      
