@@ -6,11 +6,12 @@
           
           windowWidth = window.innerWidth;
           windowHeight = window.innerHeight;
-          
-          // spotlight.style.background = `radial-gradient(600px at ${e.pageX / window.innerWidth * 100}% ${e.pageY / window.innerHeight * 100}%, ${spotlightSize}`;
-          
+                    
           mouseXpercentage = event.pageX / windowWidth * 100;
           mouseYpercentage = event.pageY / windowHeight * 100;
+
+          console.log(event.pageX);
+          console.log(event.pageY);
 
           gradientDiv.style.background = 'radial-gradient(600px at ' + mouseXpercentage + '% ' + mouseYpercentage + '%, rgba(29, 78, 216, 0.15), transparent 80%';
      };
