@@ -34,6 +34,10 @@ header > h1 {
   text-align: center;
 }
 
+header > h1 > div.title {
+  font-size: initial;
+}
+
 div.social-info {
     display: flex;
     flex-direction: column;
@@ -42,10 +46,11 @@ div.social-info {
 div.social-icon {
     display: flex;
     align-items: center;
+    padding: 4px 0;
 }
 
 div.social-icon > a {
-  padding-left: 4px;
+  padding-left: 8px;
 }
 
 div.wrapper {
