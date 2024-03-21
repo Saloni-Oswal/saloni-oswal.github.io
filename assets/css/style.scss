@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+html {
+    display: flex;
+}
+
 div.radial-gradient {
     position: absolute;
     transition-duration: .3s;
