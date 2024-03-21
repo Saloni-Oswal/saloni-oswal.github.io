@@ -83,6 +83,7 @@ section {
 
   div.wrapper {
     flex-direction: column;
+    margin: 0;
   }
   
   section {
@@ -93,6 +94,6 @@ section {
   header {
     padding-right: 0px;
     top: auto;
-    max-height: auto;
+    max-height: fit-content;
   }
 }
