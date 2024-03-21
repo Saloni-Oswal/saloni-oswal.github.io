@@ -32,3 +32,17 @@ table {
 header > h1 {
   text-align: center;
 }
+
+div.social-info {
+    display: flex;
+    flex-direction: column;
+}
+
+div.social-icon {
+    display: flex;
+    align-items: center;
+}
+
+div.social-icon > a {
+  padding-left: 4px;
+}
