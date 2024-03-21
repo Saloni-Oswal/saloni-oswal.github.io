@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-// html {
-//     display: flex;
-// }
-
 div.radial-gradient {
     position: absolute;
     transition-duration: .3s;
@@ -92,7 +88,7 @@ header {
             padding-top: 10px;
         }
     }
-    p > img {
+    img {
         height: 270px;
         width: 270px;
     }
