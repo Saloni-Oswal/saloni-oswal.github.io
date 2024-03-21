@@ -4,22 +4,28 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: rgb(15 23 42);
-  color: rgb(226 232 240);
+  background-color: #0F172A;
+  color: #E2E8F0;
 }
 
 h1, h2, h3, h4, h5, h6, a, strong, header > p, li > b {
   color: ghostwhite;
 }
 
+a:hover, a:focus {
+  color: ghostwhite;
+  font-weight: bold;
+}
+
 p, li {
-  color: rgb(148 163 184);
+  color: #94A3B8;
 }
 
 hr {
-  background: rgb(94 234 212);
+  background: #5EEAD4;
 }
 
 table {
-  color: rgb(94 234 212);
+  color: #5EEAD4;
 }
+
