@@ -6,6 +6,7 @@
 body {
   background-color: #0F172A;
   color: #E2E8F0;
+  display: flex;
 }
 
 h1, h2, h3, h4, h5, h6, a, strong, header > p, li > b {
@@ -45,4 +46,38 @@ div.social-icon {
 
 div.social-icon > a {
   padding-left: 4px;
+}
+
+div.wrapper {
+  display: flex;
+  flex: 1
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  position: unset;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  position: unset;
+  padding-left: 10%;
+  flex: 1;
+}
+
+@media print, screen and (max-width: 960px) {
+
+  div.wrapper {
+    flex-direction: column;
+  }
+  
+  section {
+    border:1px solid #5EEAD4;
+  }
+  
+  header {
+    padding-right: 0px;
+  }
 }
