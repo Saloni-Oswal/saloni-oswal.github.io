@@ -48,19 +48,6 @@ table {
     color: #5EEAD4;
 }
 
-header {
-    padding: 50px 0;
-}
-
-header > h1 {
-    text-align: center;
-}
-
-header > h1 > div.title {
-    font-size: initial;
-    padding-top: 10px;
-}
-
 div.social-info {
     display: flex;
     flex-direction: column;
@@ -80,20 +67,36 @@ div.wrapper {
     display: flex;
     flex: 1;
     margin: 0 15%;
+    gap: 1rem;
 }
 
 header {
     display: flex;
     flex-direction: column;
+    flex: 0.5;
+    align-items: center;
     position: sticky;
     max-height: 100vh;
     top: 0;
+    width: auto;
+    padding: 50px 0;
+}
+
+header > h1 > div.title {
+    font-size: initial;
+    padding-top: 10px;
+}
+
+header > h1 > p > img {
+    height: 270px;
+    width: 270px;
 }
 
 main#content {
     display: flex;
+    flex: 1;
     flex-direction: column;
-    padding: 50px 0 50px 10%;
+    padding: 50px;
 }
 
 section {
@@ -127,17 +130,12 @@ td {
         margin: 0;
     }
   
-    section {
-        border: 1px solid #5EEAD4;
-        padding-left: 0px;
-      }
-
     main#content {
-        padding-left: 0px;
+        padding: 0px 25px;
     }
   
     header {
-        padding-right: 0px;
+        padding: 25px 0px;
         top: auto;
         max-height: fit-content;
     }
