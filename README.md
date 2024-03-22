@@ -2,17 +2,13 @@ Reliable | Proactive | Troubleshooter | Efficient
 
 <section id="about" class="about">
   <p>
-    Back in 2016, after finishing my masters in computer science, I decided to try my hand at creating a custom static website and got into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building software for an e-commerce client, a huge multi national banking corporation, and few other MVPs for other clients.
+    Back in 2016, after finishing my masters in computer science, I decided to try my hand at creating a custom static website and got into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building software for an e-commerce client, a huge multi national banking corporation, and few other MVPs for other clients. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood.
   </p>
   
   <p>
-  After a professional employment of ~6 years in India until Nov'22, during the period from Nov'22 to Feb'23, I took a deliberate hiatus from my professional career to navigate a transition in my immigration status from H4 visa to EAD. This gap allowed me the opportunity to focus on personal growth, family commitments, and navigating the complexities of the immigration process. Despite not being formally employed during this time, I remained proactive in honing my skills through reading about new technologies and frameworks in React, and practising building of static websites, ensuring that I stayed abreast of industry trends and developments. Now equipped with my EAD status, I am eager to re-enter the workforce with renewed dedication, enthusiasm, and a wealth of experiences that have shaped me both personally and professionally.
+  During the period from Nov'22 to Feb'23, I took a deliberate hiatus from my professional career to navigate a transition in my immigration status from H4 visa to EAD. This gap allowed me the opportunity to focus on personal growth, family commitments, and navigating the complexities of the immigration process. Despite not being formally employed during this time, I remained proactive in honing my skills through reading about the fast evolving features in React, ensuring that I stayed abreast of industry trends and developments. Now equipped with my EAD status, I am eager to re-enter the workforce with renewed dedication, enthusiasm, and a wealth of experiences that have shaped me both personally and professionally.
 </p>
 
-  <p>
-  It was not too long, and I started to miss coding and developing websites! I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood.
-  </p>
-  
   <p>
     When I’m not at the computer, I’m usually strolling in the city, sipping coffee and clicking pictures of people and buildings around, hanging out with my husband doing any outdoor adventure, or playing board games with friends.
   </p>
