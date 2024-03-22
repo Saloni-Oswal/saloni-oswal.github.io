@@ -55,7 +55,10 @@ Reliable | Proactive | Troubleshooter | Efficient
  <span class="experience-summary">
    In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored junior team members conducted code reviews to maintain code quality to achieve high performance and meet project goals.
  </span>
-    <h2>Software engineer, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
+  
+  ---
+  
+  <h2>Software engineer, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
       <ol>
         <li>E-commerce website</li>
         <ul>
@@ -87,8 +90,6 @@ Reliable | Proactive | Troubleshooter | Efficient
 
 <section id="education" class="education">
  <h1>Education</h1>
-  <p>
   <h2>Fergusson College, Pune, India</h2>
   MS in Computer Science (2014- 2016) <br /> GPA: 3.2 / 4.0
-  </p>
 </section>
