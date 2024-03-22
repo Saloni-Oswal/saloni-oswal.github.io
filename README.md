@@ -1,6 +1,6 @@
 <section id="about" class="about">
   <p>
-    Back in 2016, after finishing my masters in computer science, I decided to try my hand at creating a custom static website and got into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building software for an e-commerce client, a huge multi national banking corporation, and few other MVPs for other clients. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood.
+    In 2016, fresh off completing my Master's in Computer Science, I embarked on a journey to explore web development by creating a custom static website. Little did I know, this venture would plunge me deep into the captivating world of coding and web development. Fast-forward to the present day, and I've had the honor of crafting software solutions for diverse clients, including an e-commerce giant, a prominent multinational banking corporation, and several other innovative MVPs. My true passion lies at the intersection of design and engineering, where I relish in crafting software that not only boasts aesthetic appeal but also operates flawlessly beneath the surface.
   </p>
   
   <p>
@@ -8,7 +8,7 @@
 </p>
 
   <p>
-    When I’m not at the computer, I’m usually strolling in the city, sipping coffee, clicking photographs of people and buildings in NYC, doing any and every outdoor activity.
+    When I'm not immersed in code, you can often find me exploring the vibrant streets of NYC, camera in hand, capturing moments of life and architecture. I have a penchant for savoring a good cup of coffee while delving into the city's myriad cultural offerings. Additionally, I'm an avid enthusiast of outdoor activities, always eager to embrace new adventures and experiences in nature.
   </p>
 </section>
 
