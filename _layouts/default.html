@@ -7,15 +7,20 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
-    <title>site.name</title>
+    <title>{{ site.name }}</title>
       <meta
         name="description"
-        content="{{site.name}} is a software engineer who builds accessible, responsive products and digital experiences for the web."
+        content="{{ site.name }} is a software engineer who builds accessible, responsive products and digital experiences for the web."
       />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="Saloni Oswal" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:description"
+      content="{{ site.name }} is a software engineer who builds accessible, inclusive products and digital experiences for the web."
+    />
+    <meta property="og:url" content="https://saloni-oswal.github.io/" />
   </head>
   <body>
     <div class="radial-gradient">
