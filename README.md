@@ -89,7 +89,7 @@
  <h1>Education</h1>
   <h2><a href="https://www.fergusson.edu/" target="_blank">Fergusson College, Pune, India</a></h2>
   MS in Computer Science (2014- 2016) <br /> GPA: 3.2 / 4.0
-  <br />
+  <br /><br /><br />
   <h2><a href="https://pvgcosc.ac.in/" target="_blank">PVG's College Of Science, Pune, India</a></h2>
   BS in Computer Science (2011 - 2014) <br /> GPA: 3.6 / 4.0
 </section>
