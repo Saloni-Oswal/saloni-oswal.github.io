@@ -56,7 +56,7 @@ Reliable | Proactive | Troubleshooter | Efficient
    In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored junior team members conducted code reviews to maintain code quality to achieve high performance and meet project goals.
  </span>
   
-  ---
+  <hr />
   
   <h2>Software engineer, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
       <ol>
