@@ -31,7 +31,7 @@
 
 <section id="experience" class="experience">
  <h1>Experience</h1>
-    <h2>Senior Associate - Technology, <a href="https://www.synechron.com/">Synechron, Pune India</a> (Jun'19 - Nov'22)</h2>
+    <h2>Senior Associate - Technology, <a href="https://www.synechron.com/" target="_blank">Synechron, Pune India</a> (Jun'19 - Nov'22)</h2>
     <ol>
       <li>Commercial banking application</li>
       <ul>
@@ -52,7 +52,7 @@
   
   <hr />
   
-  <h2>Software engineer, <a href="https://springct.net/">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
+  <h2>Software engineer, <a href="https://springct.net/" target="_blank">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
       <ol>
         <li>E-commerce website</li>
         <ul>
@@ -84,6 +84,9 @@
 
 <section id="education" class="education">
  <h1>Education</h1>
-  <h2>Fergusson College, Pune, India</h2>
+  <h2><a href="https://www.fergusson.edu/" target="_blank">Fergusson College, Pune, India</a></h2>
   MS in Computer Science (2014- 2016) <br /> GPA: 3.2 / 4.0
+
+  <h2><a href="https://pvgcosc.ac.in/" target="_blank">PVG's College Of Science, Pune, India</a></h2>
+  BS in Computer Science (2011 - 2014) <br /> GPA: 3.6 / 4.0
 </section>
