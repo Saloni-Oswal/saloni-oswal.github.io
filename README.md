@@ -1,5 +1,3 @@
-Reliable | Proactive | Troubleshooter | Efficient
-
 <section id="about" class="about">
   <p>
     Back in 2016, after finishing my masters in computer science, I decided to try my hand at creating a custom static website and got into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building software for an e-commerce client, a huge multi national banking corporation, and few other MVPs for other clients. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood.
