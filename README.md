@@ -19,6 +19,7 @@
       <tr>
         <td>Javascript</td>
         <td>React</td>
+        <td>React Native</td>
         <td>HTML</td>
         <td>CSS</td>
         <td>Bootstrap</td>
