@@ -8,7 +8,7 @@
 </p>
 
   <p>
-    When I’m not at the computer, I’m usually strolling in the city, sipping coffee and clicking pictures of people and buildings around, hanging out with my husband doing any outdoor adventure, or playing board games with friends.
+    When I’m not at the computer, I’m usually strolling in the city, sipping coffee, clicking photographs of people and buildings in NYC, doing any and every outdoor activity.
   </p>
 </section>
 
