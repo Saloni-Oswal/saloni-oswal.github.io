@@ -23,6 +23,8 @@
         <td>HTML</td>
         <td>CSS</td>
         <td>Bootstrap</td>
+        <td>Storybook</td>
+        <td>Webpack</td>
         <td>Github</td>
         <td>VSCode</td>
       </tr>
