@@ -4,7 +4,7 @@
   </p>
   
   <p>
-  During the period from Nov'22 to Feb'23, I took a deliberate hiatus from my professional career to navigate a transition in my immigration status from H4 visa to EAD. This gap allowed me the opportunity to focus on personal growth, family commitments, and navigating the complexities of the immigration process. Despite not being formally employed during this time, I remained proactive in honing my skills through reading about the fast evolving features in React, ensuring that I stayed abreast of industry trends and developments. Now equipped with my EAD status, I am eager to re-enter the workforce with renewed dedication, enthusiasm, and a wealth of experiences that have shaped me both personally and professionally.
+  During the period from November 2022 to February 2023, I intentionally took a hiatus from my professional career to navigate a significant life transition. This break allowed me the opportunity to focus on personal growth, family commitments, and other aspects of my life. Despite not being formally employed during this time, I remained proactive in honing my skills, particularly in React, by staying updated with the latest industry trends and developments. Now, as I prepare to re-enter the workforce, I am eager to bring forth my renewed dedication, enthusiasm, and a wealth of experiences that have shaped me both personally and professionally.
 </p>
 
   <p>
