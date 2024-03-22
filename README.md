@@ -50,7 +50,7 @@
       </ul>
     </ol>
  <span class="experience-summary">
-   In my tenure of 3 years with Synechron, in addition to development, I supervised, led, and mentored junior team members conducted code reviews to maintain code quality to achieve high performance and meet project goals.
+   During my 3-year tenure at Synechron, alongside my development responsibilities, I took on supervisory roles, providing leadership and mentorship to junior team members. I conducted thorough code reviews to uphold code quality standards, ensuring optimal performance and alignment with project objectives.
  </span>
   
   <hr />
@@ -80,7 +80,7 @@
        </ul>
       </ol>
  <span class="experience-summary">
-    In my overall tenure of 3.5 years working in Spring, I participated in stakeholder meetings and scope and design discussions, contributed to solutions involving decision making for selection of appropriate design patterns and architecture for projects, led development team, and contributed in developing MVPs for potential clients.
+    During my 3.5-year tenure with Spring, I actively engaged in stakeholder meetings and collaborated on scope and design discussions. I played a pivotal role in decision-making processes, aiding in the selection of optimal design patterns and architectures for various projects. Additionally, I assumed leadership responsibilities within development teams and made significant contributions to the development of Minimum Viable Products (MVPs) aimed at prospective clients.
   </span>
 </section>
 
