@@ -83,7 +83,8 @@
   </span>
 </section>
 
-
+ <hr />
+ 
 <section id="education" class="education">
  <h1>Education</h1>
   <h2><a href="https://www.fergusson.edu/" target="_blank">Fergusson College, Pune, India</a></h2>
