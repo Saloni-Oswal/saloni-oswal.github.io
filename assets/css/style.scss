@@ -104,6 +104,7 @@ main#content {
     flex: 1;
     flex-direction: column;
     padding: 50px 0px;
+    min-width: 0%;
 }
 
 section {
@@ -158,9 +159,9 @@ footer {
     }
 }
 
-@media print, screen and (max-width: 1024) and (min-width 960px) {
-    div.wrapper {
-        margin: 0 8%;
+@media (min-width: 961px) and (max-width: 1280px) {
+  div.wrapper {
+        margin: 0 6%;
     }
 }
 
