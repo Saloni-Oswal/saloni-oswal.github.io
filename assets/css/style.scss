@@ -93,10 +93,11 @@ header {
             padding-top: 10px;
         }
     }
-    img {
-        height: 270px;
-        width: 270px;
-    }
+}
+
+img {
+    height: 270px;
+    width: 270px;
 }
 
 main#content {
@@ -111,10 +112,6 @@ section {
     width: 100%;
     padding: 0px;
     border: none;
-    margin-bottom: 60px;
-}
-
-.about {
     margin-bottom: 60px;
 }
 
