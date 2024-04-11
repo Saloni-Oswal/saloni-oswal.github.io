@@ -24,6 +24,8 @@
         <td>CSS</td>
         <td>Bootstrap</td>
         <td>Storybook</td>
+        <td>jQuery</td>
+        <td>Jest</td>
         <td>Webpack</td>
         <td>Github</td>
         <td>VSCode</td>
@@ -38,15 +40,15 @@
     <ol>
       <li>Commercial banking application</li>
       <ul>
-        <li>Played a key role in the ongoing development and enhancement of the bank's commercial banking web application, contributing to feature ideation, technical design, and implementation.</li>
-        <li>Actively participated in sprint planning, backlog grooming, and retrospectives to prioritize tasks, refine requirements, and improve team efficiency and collaboration.</li>
+        <li>Played a key role in ongoing development and enhancement of the bank's commercial banking web application, contributing to design and feature implementation.</li>
+        <li>Participated in sprint planning, backlog grooming, and retrospectives to prioritize tasks, refine requirements, thus improving team efficiency by 25%.</li>
         <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>
       </ul>
       <li>Alias managament application</li>
       <ul>
-        <li>Contributed to the development and enhancement of the alias management application, collaborating closely with product managers, designers, and backend developers to deliver high-quality solutions.</li>
-        <li>Worked closely with cross-functional teams including designers, backend developers, and QA engineers to deliver high-quality solutions that meet business objectives and user needs.</li>
-        <li>Employed responsive design principles and accessibility best practices to cater to diverse user demographics and device types.</li>
+        <li>Developed and enhanced an alias management application, collaborating closely with designers and backend team to deliver high-quality solutions.</li>
+        <li>Worked closely with cross-functional teams to deliver solutions that meet business objectives and user needs increasing team efficiency.</li>
+        <li>Enhancedthealiasmanagementapplicationbyimplementingresponsivedesignand accessibility standards, increasing user accessibility by 40%.</li>
       </ul>
     </ol>
  <span class="experience-summary">
@@ -57,26 +59,23 @@
   
   <h2>Software engineer, <a href="https://springct.net/" target="_blank">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
       <ol>
-        <li>E-commerce website</li>
+      <li>E-commerce website</li>
         <ul>
-        <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely.</li>
-        <li>Implemented features such as user authentication, product search, and dynamic filtering for an enhanced shopping experience.</li>
-        <li>Collaborated closely with stakeholders to understand business requirements and translate them into scalable and maintainable frontend components and features.</li>
-          <li>Worked closely with cross-functional teams including designers, backend developers, and QA engineers to deliver high-quality solutions that meet business objectives and user needs.</li>
+          <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely.</li>
+          <li>Implemented features like user authentication, product search, and dynamic filtering for an enhanced shopping experience, achieving 95% positive user feedback rate.</li>
+          <li>Collaborated closely with stakeholders and cross-functional teams to understand business requirements and translate them into scalable and maintainable frontend components and features ensuring timely delivery of technical solutions.</li>
         </ul>
       <li>Cross platform mobile application</li>
       <ul>
-        <li>Developed a feature-rich mobile application using React Native, ensuring a consistent user experience across iOS and Android platforms.</li>
-        <li>Implemented complex UI components and navigational flows, leveraging React Native's native capabilities for optimal performance and responsiveness.</li>
-        <li>Integrated third-party APIs for functionalities such as geolocation, push notifications, and social media authentication, enhancing app functionality and user engagement.</li>
+        <li>Developed a feature-rich mobile application leveraging React Native capabilities to implement complex UI components and navigational flows for optimal performance, ensuring a consistent user experience across iOS and Android platforms.</li>
+        <li>Integrated third-party APIs for functionalities such as push notifications and social media authentication, enhancing app functionality and user engagement by 30%.</li>
         <li>Collaborated with designers to ensure pixel-perfect implementation of UI components and adherence to brand guidelines.</li>
       </ul>
-       <li>Customizable Caption Styles</li>
+     <li>Customizable Caption Styles</li>
        <ul>
-         <li>Designed and implemented a feature allowing users to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
+         <li>Designed and implemented a feature to display closed captions to users, also providing a way to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
          <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience.</li>
-         <li>Conducted usability testing and gathered feedback to iterate on caption styling options, ensuring optimal readability and user satisfaction across different devices and environments.</li>
-         <li>Ensured cross-browser compatibility and responsive design to deliver a consistent user experience across desktop and mobile devices.</li>
+         <li>Conducted user and usability testing and gathered feedback to iterate on caption styling options, ensuring optimal readability and user satisfaction and consistent experience across different devices and environments.</li>
        </ul>
       </ol>
  <span class="experience-summary">
