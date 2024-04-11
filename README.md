@@ -48,7 +48,7 @@
       <ul>
         <li>Developed and enhanced an alias management application, collaborating closely with designers and backend team to deliver high-quality solutions.</li>
         <li>Worked closely with cross-functional teams to deliver solutions that meet business objectives and user needs increasing team efficiency.</li>
-        <li>Enhancedthealiasmanagementapplicationbyimplementingresponsivedesignand accessibility standards, increasing user accessibility by 40%.</li>
+        <li>Enhanced the alias management application by implementing responsive design and accessibility standards, increasing user accessibility by 40%.</li>
       </ul>
     </ol>
  <span class="experience-summary">
