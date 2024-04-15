@@ -52,7 +52,7 @@
       </ul>
     </ol>
  <span class="experience-summary">
-   During my 3-year tenure at Synechron, alongside my development responsibilities, I took on supervisory roles, providing leadership and mentorship to junior team members. I conducted thorough code reviews to uphold code quality standards, ensuring optimal performance and alignment with project objectives.
+   During my 3.5-year tenure at Synechron, alongside my development responsibilities, I took on supervisory roles, providing leadership and mentorship to junior team members. I conducted thorough code reviews to uphold code quality standards, ensuring optimal performance and alignment with project objectives.
  </span>
   
   <hr />
