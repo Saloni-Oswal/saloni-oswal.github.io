@@ -44,7 +44,7 @@
         <li>Participated in sprint planning, backlog grooming, and retrospectives to prioritize tasks, refine requirements, thus improving team efficiency by 25%.</li>
         <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>
       </ul>
-      <li>Alias managament application</li>
+      <li>Alias management application</li>
       <ul>
         <li>Developed and enhanced an alias management application, collaborating closely with designers and backend team to deliver high-quality solutions.</li>
         <li>Worked closely with cross-functional teams to deliver solutions that meet business objectives and user needs increasing team efficiency.</li>
