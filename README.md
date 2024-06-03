@@ -1,4 +1,4 @@
-<section id="about" class="about">
+˜<section id="about" class="about">
   <p>
     In 2016, fresh off completing my Master's in Computer Science, I embarked on a journey to explore web development by creating a custom static website. Little did I know, this venture would plunge me deep into the captivating world of coding and web development. Fast-forward to the present day, and I've had the honor of crafting software solutions for diverse clients, including an e-commerce giant, a prominent multinational banking corporation, and several other innovative MVPs. My true passion lies at the intersection of design and engineering, where I relish in crafting software that not only boasts aesthetic appeal but also operates flawlessly beneath the surface.
   </p>
@@ -41,37 +41,37 @@
       <li>Commercial banking application</li>
       <ul>
         <li>Played a key role in ongoing development and enhancement of the bank's commercial banking web application, contributing to design and feature implementation.</li>
-        <li>Participated in sprint planning, backlog grooming, and retrospectives to prioritize tasks, refine requirements, thus improving team efficiency by 25%.</li>
+        <li>Improved team efficiency by 25% by participating in sprint planning, backlog grooming, and retrospectives to prioritize tasks and refine requirements.</li>
         <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>
       </ul>
       <li>Alias management application</li>
       <ul>
         <li>Developed and enhanced an alias management application, collaborating closely with designers and backend team to deliver high-quality solutions.</li>
-        <li>Worked closely with cross-functional teams to deliver solutions that meet business objectives and user needs increasing team efficiency.</li>
-        <li>Enhanced the alias management application by implementing responsive design and accessibility standards, increasing user accessibility by 40%.</li>
+        <li>Collaborated closely with cross-functional teams to deliver solutions that meet business objectives and user needs, increasing team efficiency.</li>
+        <li>Increased user accessibility by 40% by enhancing the alias management application by implementing responsive design and accessibility standards.</li>
       </ul>
     </ol>
  <span class="experience-summary">
    During my 3.5-year tenure at Synechron, alongside my development responsibilities, I took on supervisory roles, providing leadership and mentorship to junior team members. I conducted thorough code reviews to uphold code quality standards, ensuring optimal performance and alignment with project objectives.
  </span>
   
-  <hr />
-  
-  <h2>Software engineer, <a href="https://springct.net/" target="_blank">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
+<hr />
+
+<h2>Software engineer, <a href="https://springct.net/" target="_blank">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)</h2>
       <ol>
       <li>E-commerce website</li>
         <ul>
           <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely.</li>
-          <li>Implemented features like user authentication, product search, and dynamic filtering for an enhanced shopping experience, achieving 95% positive user feedback rate.</li>
-          <li>Collaborated closely with stakeholders and cross-functional teams to understand business requirements and translate them into scalable and maintainable frontend components and features ensuring timely delivery of technical solutions.</li>
+          <li>Achieved 95% positive user feedback rate by implementing features like user authentication, product search, and dynamic filtering for an enhanced shopping experience.</li>
+          <li>Implemented google analytics to optimize user experience and achieve desired business goals.</li>
         </ul>
       <li>Cross platform mobile application</li>
       <ul>
         <li>Developed a feature-rich mobile application leveraging React Native capabilities to implement complex UI components and navigational flows for optimal performance, ensuring a consistent user experience across iOS and Android platforms.</li>
-        <li>Integrated third-party APIs for functionalities such as push notifications and social media authentication, enhancing app functionality and user engagement by 30%.</li>
-        <li>Collaborated with designers to ensure pixel-perfect implementation of UI components and adherence to brand guidelines.</li>
+        <li>Enhanced app functionality and user engagement by 30% by integrating third-party APIs for functionalities such as push notifications and social media authentication.</li>
+        <li>Collaborated with stakeholders and designers to understand business requirements and ensure pixel-perfect delivery of application adhering to brand guidelines.</li>
       </ul>
-     <li>Customizable Caption Styles</li>
+        <li>Customizable Caption Styles</li>
        <ul>
          <li>Designed and implemented a feature to display closed captions to users, also providing a way to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
          <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience.</li>
