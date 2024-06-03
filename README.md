@@ -1,4 +1,4 @@
-˜<section id="about" class="about">
+<section id="about" class="about">
   <p>
     In 2016, fresh off completing my Master's in Computer Science, I embarked on a journey to explore web development by creating a custom static website. Little did I know, this venture would plunge me deep into the captivating world of coding and web development. Fast-forward to the present day, and I've had the honor of crafting software solutions for diverse clients, including an e-commerce giant, a prominent multinational banking corporation, and several other innovative MVPs. My true passion lies at the intersection of design and engineering, where I relish in crafting software that not only boasts aesthetic appeal but also operates flawlessly beneath the surface.
   </p>
