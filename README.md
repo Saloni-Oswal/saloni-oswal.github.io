@@ -79,7 +79,7 @@ consistency and maintainability.</li>
          <li>Designed and implemented a feature to display closed captions to users, also providing a way to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
          <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience.</li>
          <li>Worked with peers to conduct usability testing for gathering feedback and iterated on caption styling options, ensuring optimal readability and consistent experience across varied devices and environments.</li>
-         <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>!
+         <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>
        </ul>
       </ol>
  <span class="experience-summary">
