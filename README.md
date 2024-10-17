@@ -40,15 +40,17 @@
     <ol>
       <li>Commercial banking application</li>
       <ul>
-        <li>Played a key role in ongoing development and enhancement of the bank's commercial banking web application, contributing to design and feature implementation.</li>
+        <li>Played a key role in the ongoing development and enhancement of the bank's commercial banking web application, contributing to design and feature implementation.</li>
         <li>Improved team efficiency by 25% by participating in sprint planning, backlog grooming, and retrospectives to prioritize tasks and refine requirements.</li>
-        <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>
+        <li>Designed new, modular UI components to be used / documented in the in-house interactive pattern library using React Storybook.</li>
+        <li>Involved in migration of codebase from older DOJO technology to React.</li>
       </ul>
       <li>Alias management application</li>
       <ul>
-        <li>Developed and enhanced an alias management application, collaborating closely with designers and backend team to deliver high-quality solutions.</li>
+        <li>Extended the UI for an alias management system to support banking services in Hong Kong and Singapore.
         <li>Collaborated closely with cross-functional teams to deliver solutions that meet business objectives and user needs, increasing team efficiency.</li>
-        <li>Increased user accessibility by 40% by enhancing the alias management application by implementing responsive design and accessibility standards.</li>
+        <li>Achieved 95% user accessibility by implementing WCAG 2.0 standards.</li>
+        <li>Refactored existing codebase by implementing a responsive and cross browser compatible design.</li>
       </ul>
     </ol>
  <span class="experience-summary">
@@ -63,19 +65,21 @@
         <ul>
           <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely.</li>
           <li>Achieved 95% positive user feedback rate by implementing features like user authentication, product search, and dynamic filtering for an enhanced shopping experience.</li>
-          <li>Implemented google analytics to optimize user experience and achieve desired business goals.</li>
+          <li>Implemented google tag management to optimize user experience and achieve desired business goals.</li>
         </ul>
       <li>Cross platform mobile application</li>
       <ul>
         <li>Developed a feature-rich mobile application leveraging React Native capabilities to implement complex UI components and navigational flows for optimal performance, ensuring a consistent user experience across iOS and Android platforms.</li>
         <li>Enhanced app functionality and user engagement by 30% by integrating third-party APIs for functionalities such as push notifications and social media authentication.</li>
-        <li>Collaborated with stakeholders and designers to understand business requirements and ensure pixel-perfect delivery of application adhering to brand guidelines.</li>
+        <li>Built a new design system / web services consumption architecture to provide
+consistency and maintainability.</li>
       </ul>
         <li>Customizable Caption Styles</li>
        <ul>
          <li>Designed and implemented a feature to display closed captions to users, also providing a way to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
          <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience.</li>
-         <li>Conducted user and usability testing and gathered feedback to iterate on caption styling options, ensuring optimal readability and user satisfaction and consistent experience across different devices and environments.</li>
+         <li>Worked with peers to conduct usability testing for gathering feedback and iterated on caption styling options, ensuring optimal readability and consistent experience across varied devices and environments.</li>
+         <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team.</li>!
        </ul>
       </ol>
  <span class="experience-summary">
@@ -88,7 +92,7 @@
 <section id="education" class="education">
  <h1>Education</h1>
   <h2><a href="https://www.fergusson.edu/" target="_blank">Fergusson College, Pune, India</a></h2>
-  MS in Computer Science (2014 - 2016) <br /> GPA: 3.6 / 4.0
+  MS in Computer Science (2014 - 2016) <br /> GPA: 3.8 / 4.0
   <br /><br /><br />
   <h2><a href="https://pvgcosc.ac.in/" target="_blank">PVG's College Of Science, Pune, India</a></h2>
   BS in Computer Science (2011 - 2014) <br /> GPA: 3.8 / 4.0
