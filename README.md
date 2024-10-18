@@ -47,7 +47,7 @@
       </ul>
       <li>Alias management application</li>
       <ul>
-        <li>Extended the UI for an alias management system to support banking services in Hong Kong and Singapore.
+        <li>Extended the UI for an alias management system to support banking services in Hong Kong and Singapore.</li>
         <li>Collaborated closely with cross-functional teams to deliver solutions that meet business objectives and user needs, increasing team efficiency.</li>
         <li>Achieved 95% user accessibility by implementing WCAG 2.0 standards.</li>
         <li>Refactored existing codebase by implementing a responsive and cross browser compatible design.</li>
