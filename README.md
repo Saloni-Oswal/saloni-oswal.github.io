@@ -65,7 +65,7 @@
         <ul>
           <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely.</li>
           <li>Achieved 95% positive user feedback rate by implementing features like user authentication, product search, and dynamic filtering for an enhanced shopping experience.</li>
-          <li>Implemented google tag management to optimize user experience and achieve desired business goals.</li>
+          <li>Implemented google tag management to support analytics reporting and achieve desired business goals.</li>
         </ul>
       <li>Cross platform mobile application</li>
       <ul>
