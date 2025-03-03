@@ -4,7 +4,7 @@
   </p>
   
   <p>
-  During the period from November 2022 to June 2024, I intentionally took a hiatus from my professional career to navigate a significant life transition. This break allowed me the opportunity to focus on personal growth, family commitments, and other aspects of my life. Despite not being formally employed during this time, I remained proactive in honing my skills, particularly in React, by staying updated with the latest industry trends and developments. Now, as I prepare to re-enter the workforce, I am eager to bring forth my renewed dedication, enthusiasm, and a wealth of experiences that have shaped me both personally and professionally.
+  From January 2023 I intentionally took a hiatus from my professional career to navigate a significant life transition. This break allowed me the opportunity to focus on personal growth, family commitments, and other aspects of my life. Despite not being formally employed during this time, I remained proactive in honing my skills, particularly in React, by staying updated with the latest industry trends and developments. Now, as I prepare to re-enter the workforce, I am eager to bring forth my renewed dedication, enthusiasm, and a wealth of experiences that have shaped me both personally and professionally.
 </p>
 
   <p>
@@ -36,7 +36,7 @@
 
 <section id="experience" class="experience">
  <h1>Experience</h1>
-    <h2>Senior Associate - Technology, <a href="https://www.synechron.com/" target="_blank">Synechron, Pune India</a> (Jun'19 - Nov'22)</h2>
+    <h2>Senior Associate - Technology, <a href="https://www.synechron.com/" target="_blank">Synechron, Pune India</a> (Jun'19 - Jan'23)</h2>
     <ol>
       <li>Commercial banking application</li>
       <ul>
