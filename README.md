@@ -17,15 +17,18 @@
   <table>
     <tbody>
       <tr>
+        <td>HTML</td>
+        <td>CSS</td>
         <td>Javascript</td>
         <td>React</td>
         <td>React Native</td>
-        <td>HTML</td>
-        <td>CSS</td>
         <td>Bootstrap</td>
         <td>Storybook</td>
         <td>jQuery</td>
         <td>Jest</td>
+        <td>CSS</td>
+        <td>Tailwind</td>
+        <td>Vite</td>
         <td>Webpack</td>
         <td>Github</td>
         <td>VSCode</td>
