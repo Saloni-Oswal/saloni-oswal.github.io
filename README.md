@@ -22,16 +22,14 @@
         <td>Javascript</td>
         <td>React</td>
         <td>React Native</td>
-        <td>Bootstrap</td>
         <td>Storybook</td>
-        <td>jQuery</td>
-        <td>Jest</td>
         <td>CSS</td>
         <td>Tailwind</td>
         <td>Vite</td>
         <td>Webpack</td>
-        <td>Github</td>
-        <td>VSCode</td>
+        <td>Jest</td>
+        <td>Flexbox</td>
+        <td>Bootstrap</td>
       </tr>
     </tbody>
   </table>
