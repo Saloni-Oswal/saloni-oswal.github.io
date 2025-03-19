@@ -39,9 +39,9 @@
  <h1>Experience</h1>
     <h2>Senior Associate - Technology, <a href="https://www.synechron.com/" target="_blank">Synechron, Pune India</a> (Jun'19 - Jan'23)</h2>
     <ol>
-      <li>Commercial banking application</li>
+      <li>Commercial banking application (for HSBC)</li>
       <ul>
-        <li>Played a key role in the ongoing development and enhancement of the bank's commercial banking web application, contributing to design and feature implementation.</li>
+        <li>Played a key role in the ongoing development and enhancement of server-driven UI banking web application, contributing to design and feature implementation.</li>
         <li>Improved team efficiency by 25% by participating in sprint planning, backlog grooming, and retrospectives to prioritize tasks and refine requirements.</li>
         <li>Designed new, modular UI components to be used / documented in the in-house interactive pattern library using React Storybook.</li>
         <li>Involved in migration of codebase from older DOJO technology to React.</li>
@@ -84,7 +84,7 @@ consistency and maintainability.</li>
        </ul>
       </ol>
  <span class="experience-summary">
-    During my 3.5-year tenure with Spring, I actively engaged in stakeholder meetings and collaborated on scope and design discussions. I played a pivotal role in decision-making processes, aiding in the selection of optimal design patterns and architectures for various projects. Additionally, I assumed leadership responsibilities within development teams and made significant contributions to the development of Minimum Viable Products (MVPs) aimed at prospective clients.
+    During my 3.5-year tenure with Spring, I actively engaged in stakeholder meetings and collaborated on scope and design discussions. I played a pivotal role in decision-making processes, aiding in the selection of optimal design patterns and architectures for various projects. Additionally, I assumed leadership responsibilities within development teams and made significant contributions to the development of Minimum Viable Products (MVPs) aimed at prospective clients, as well as worked independently to develop POCs.
   </span>
 </section>
 
