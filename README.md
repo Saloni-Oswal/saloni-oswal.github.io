@@ -50,7 +50,6 @@
       <dl>
         <dt>1. Commercial banking application for HSBCNet</dt>
         <dd>
-          <br>
           HSBCNet is a commercial banking payments and transfers service providing customers online access to a suite of global and regional payment types. It allows customers to schedule or make instant payments through web. Customers can make cross currency payments, as well as bulk payments. Customers can also create payment templates in order to use them multiple times in the future.
           <br><br>
           <ul>
@@ -74,18 +73,16 @@
         </dd>
       </dl>
       <span class="experience-summary">
-        <h4>During my 3.5-year tenure at Synechron, in addition to my development responsibilities, I assumed supervisory roles that included leading and mentoring junior team members. I conducted comprehensive code reviews to maintain high code quality standards, ensure optimal performance, and align deliverables with project objectives.</h4>
+        During my 3.5-year tenure at Synechron, in addition to my development responsibilities, I assumed supervisory roles that included leading and mentoring junior team members. I conducted comprehensive code reviews to maintain high code quality standards, ensure optimal performance, and align deliverables with project objectives.
       </span>
     </dd>
-    <br />
-     <hr />
+    <hr />
     <dt class="experience-title">Software Engineer, <a href="https://springct.net/" target="_blank">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)
     </dt>
     <dd>
       <dl>
         <dt>1. Cross platform mobile application for Mobetize, Canada</dt>
         <dd>
-          <br>
           A mobile application that offers a payments solution allowing consumers to send international money transfers from their mobile devices seamlessly. It operates with third party exchange network which provides international remittance as a service. These vendors provide gateways to be used to process payments over the existing banking systems. The application supports four types of payments methods: Bank deposit, Cash pickup, Mobile wallet, Cash delivery.
           <br><br>
           <ul>
@@ -96,7 +93,6 @@
         </dd>
         <dt>2. E-commerce website for UNIBEV Pepsiso, Kuwait</dt>
         <dd>
-          <br>
           An e-commerce web application for distributors to promote sales of an extensive range of PepsiCo products licensed for the Middle East amongst various wholesalers.
           <br><br>
           <ul>
@@ -107,7 +103,6 @@
         </dd>
         <dt>3. Cross platform mobile application for lawyers and users in Kuwait</dt>
         <dd>
-          <br>
           A platform for lawyer and user communication where a user can view lawyer profiles containing lawyer information and their reviews, send request to multiple lawyers for hiring with a short description and their desired fee, lawyers can either accept or reject the request, lawyers who accept the request can communicate with users via chat messages, users can then hire lawyers and make payment. The development involved nuanced feature handling like polling for facilitating message chats, payment gateway integration for making payments and role based login system architecture.
           <br><br>
           <ul>
@@ -118,7 +113,6 @@
         </dd>
         <dt>4. Customizable Caption Styles for ConexED</dt>
         <dd>
-          <br>
           ConexED is a web based platform suited to meet the requirements of the universities and colleges for a cloud based appointment management platform and collaborative virtual meeting environment. It is a video meeting web based application that connects students with instructors, tutors and staff, easily allowing screen-sharing and other features to replicate an in-person office visit.
           <br><br>
           <ul>
@@ -130,7 +124,7 @@
         </dd>
       </dl>
       <span class="experience-summary">
-        <h4>During my 3.5-year tenure with Spring, I actively engaged in stakeholder meetings and collaborated on scope and design discussions. I played a pivotal role in decision-making processes, aiding in the selection of optimal design patterns and architectures for various projects. Additionally, I assumed leadership responsibilities within development teams and made significant contributions to the development of Minimum Viable Products (MVPs) aimed at prospective clients, as well as worked independently to develop POCs.</h4>
+        During my 3.5-year tenure with Spring, I actively engaged in stakeholder meetings and collaborated on scope and design discussions. I played a pivotal role in decision-making processes, aiding in the selection of optimal design patterns and architectures for various projects. Additionally, I assumed leadership responsibilities within development teams and made significant contributions to the development of Minimum Viable Products (MVPs) aimed at prospective clients, as well as worked independently to develop POCs.
       </span>
     </dd>
   </dl>

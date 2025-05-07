@@ -53,14 +53,16 @@ dt.experience-title {
 
 dt {
   font-weight: normal;
+  margin-bottom: 5px;
 }
 
 dd {
-  margin-inline-start: 15px;
+  margin-inline-start: 0px;
+  color: #94a3b8;
 }
 
 ul {
-  padding-inline-start: 15px;
+  padding-inline-start: 17px;
 }
 
 hr {
@@ -154,24 +156,17 @@ section.experience {
 
 section > h1 {
   background-color: #134e4a;
-  padding: 5px;
-  margin-left: -5px;
+  padding: 10px;
+  margin-left: -10px;
+  border-radius: 15px;
 }
 
 h1 {
-  font-size: 1.6rem;
-}
-
-h2 {
-  font-size: 1.4rem;
-}
-
-h3 {
   font-size: 1.2rem;
 }
 
-h4 {
-  font-size: 1rem;
+h2 {
+  font-size: 1.2rem;
 }
 
 tr {
@@ -183,8 +178,8 @@ tr {
 
 td {
   border-bottom: none;
-  color: #363736;
-  background-color: #d3d3d1;
+  color: #0f172a;
+  background-color: #e2e8f0;
   border-radius: 25px;
   margin: 0 10px 10px 0;
   align-self: flex-start;
