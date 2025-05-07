@@ -51,7 +51,6 @@
         <dt>1. Commercial banking application for HSBCNet</dt>
         <dd>
           HSBCNet is a commercial banking payments and transfers service providing customers online access to a suite of global and regional payment types. It allows customers to schedule or make instant payments through web. Customers can make cross currency payments, as well as bulk payments. Customers can also create payment templates in order to use them multiple times in the future.
-          <br><br>
           <ul>
             <li>Played a key role in the ongoing development and enhancement of server-driven UI banking web application, contributing to design and feature implementation</li>
             <li>Designed new, modular UI components to be used / documented in the in-house interactive pattern library using React Storybook</li>
@@ -62,7 +61,6 @@
         <dt>2. Alias management application for HSBCNet</dt>
         <dd>
           Alias management is a platform that provides the ability to assign alternative names or identifiers to bank accounts, making it easier to identify them and manage payments. This functionality allows users to avoid using potentially cumbersome account numbers when making transactions or making it easier for others to send payments to specific accounts.
-          <br><br>
           <ul>
             <li>Extended the UI for an alias management system to support banking services in Hong Kong, Singapore and Malaysia</li>
             <li>Collaborated closely with cross-functional teams to deliver solutions that meet business objectives and user needs, increasing team efficiency</li>
@@ -83,7 +81,6 @@
         <dt>1. Cross platform mobile application for Mobetize, Canada</dt>
         <dd>
           A mobile application that offers a payments solution allowing consumers to send international money transfers from their mobile devices seamlessly. It operates with third party exchange network which provides international remittance as a service. These vendors provide gateways to be used to process payments over the existing banking systems. The application supports four types of payments methods: Bank deposit, Cash pickup, Mobile wallet, Cash delivery.
-          <br><br>
           <ul>
             <li>Developed a cross-platform mobile application using React Native to build a payment transfer application which supported several payment methods</li>
             <li>The application involved development of multiple features for delivering a complete payment solution involving selection of payment type, validations for mobile numbers and zip codes around the world, handling of regulatory terms and condition screens as per destination country, display of past transactions list, etc. </li>
@@ -93,7 +90,6 @@
         <dt>2. E-commerce website for UNIBEV Pepsiso, Kuwait</dt>
         <dd>
           An e-commerce web application for distributors to promote sales of an extensive range of PepsiCo products licensed for the Middle East amongst various wholesalers.
-          <br><br>
           <ul>
             <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely</li>
             <li>Achieved 95% positive user feedback rate by implementing features like user authentication, product search, and dynamic filtering for an enhanced shopping experience</li>
@@ -103,7 +99,6 @@
         <dt>3. Cross platform mobile application for lawyers and users in Kuwait</dt>
         <dd>
           A platform for lawyer and user communication where a user can view lawyer profiles containing lawyer information and their reviews, send request to multiple lawyers for hiring with a short description and their desired fee, lawyers can either accept or reject the request, lawyers who accept the request can communicate with users via chat messages, users can then hire lawyers and make payment. The development involved nuanced feature handling like polling for facilitating message chats, payment gateway integration for making payments and role based login system architecture.
-          <br><br>
           <ul>
             <li>Developed a feature-rich mobile application leveraging React Native capabilities to implement complex UI components and navigational flows for optimal performance, ensuring a consistent user experience across iOS and Android platforms</li>
             <li>Enhanced app functionality and user engagement by 30% by integrating third-party APIs for functionalities such as push notifications and social media authentication</li>
@@ -113,7 +108,6 @@
         <dt>4. Customizable Caption Styles for ConexED</dt>
         <dd>
           ConexED is a web based platform suited to meet the requirements of the universities and colleges for a cloud based appointment management platform and collaborative virtual meeting environment. It is a video meeting web based application that connects students with instructors, tutors and staff, easily allowing screen-sharing and other features to replicate an in-person office visit.
-          <br><br>
           <ul>
             <li>Designed and implemented a feature to display closed captions to users, also providing a way to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
             <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience</li>

@@ -60,9 +60,14 @@ dd {
   color: #e2e8f0;
 }
 
+dl > dd:not(:last-child) {
+  margin-bottom: 60px;
+}
+
 ul {
   padding-inline-start: 17px;
   color: #94a3b8;
+  margin-top: 10px;
 }
 
 hr {
