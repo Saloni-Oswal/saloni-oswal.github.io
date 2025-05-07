@@ -55,6 +55,10 @@ dt.experience-title {
   font-weight: normal;
 }
 
+dl {
+  margin: 0px;
+}
+
 dt {
   font-weight: normal;
   margin-bottom: 5px;
@@ -65,16 +69,13 @@ dd {
   margin-inline-start: 0px;
   color: #94a3b8;
   font-size: 0.9rem;
-}
-
-section.experience > dl > dd:not(:last-child) {
   margin-bottom: 60px;
 }
 
 ul {
   padding-inline-start: 17px;
   color: ghostwhite;
-  margin-top: 10px;
+  margin: 10px 0 60px 0;
 }
 
 hr {
