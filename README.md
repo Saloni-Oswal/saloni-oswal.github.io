@@ -61,7 +61,6 @@
         </dd>
         <dt>2. Alias management application for HSBCNet</dt>
         <dd>
-          <br>
           Alias management is a platform that provides the ability to assign alternative names or identifiers to bank accounts, making it easier to identify them and manage payments. This functionality allows users to avoid using potentially cumbersome account numbers when making transactions or making it easier for others to send payments to specific accounts.
           <br><br>
           <ul>
