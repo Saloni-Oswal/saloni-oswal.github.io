@@ -43,7 +43,6 @@
 
   <dl>
     <dt class="experience-title">Senior Associate - Technology, <a href="https://www.synechron.com/" target="_blank">Synechron, Pune India</a> (Jun'19 - Jan'23)
-      <br><br>
     </dt>
     <dd>
       <dl>
@@ -79,7 +78,6 @@
     <br />
      <hr />
     <dt class="experience-title">Software Engineer, <a href="https://springct.net/" target="_blank">Spring Computing Technologies, Pune, India</a> (Jan'16 - May'19)
-      <br><br>
     </dt>
     <dd>
       <dl>
