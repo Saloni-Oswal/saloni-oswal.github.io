@@ -48,26 +48,30 @@
     </dt>
     <dd>
       <dl>
-        <dt>1. Commercial banking application for HSBCNet</dt>
-        <dd>
-          HSBCNet is a commercial banking payments and transfers service providing customers online access to a suite of global and regional payment types. It allows customers to schedule or make instant payments through web. Customers can make cross currency payments, as well as bulk payments. Customers can also create payment templates in order to use them multiple times in the future.
-          <ul>
-            <li>Played a key role in the ongoing development and enhancement of server-driven UI banking web application, contributing to design and feature implementation</li>
-            <li>Designed new, modular UI components to be used / documented in the in-house interactive pattern library using React Storybook</li>
-            <li>Improved team efficiency by 25% by participating in sprint planning, backlog grooming, and retrospectives to prioritize tasks and refine requirements</li>
-            <li>Involved in the migration of codebase from older DOJO technology to React</li>
-          </ul>
-        </dd>
-        <dt>2. Alias management application for HSBCNet</dt>
-        <dd>
-          Alias management is a platform that provides the ability to assign alternative names or identifiers to bank accounts, making it easier to identify them and manage payments. This functionality allows users to avoid using potentially cumbersome account numbers when making transactions or making it easier for others to send payments to specific accounts.
-          <ul>
-            <li>Extended the UI for an alias management system to support banking services in Hong Kong, Singapore and Malaysia</li>
-            <li>Collaborated closely with cross-functional teams to deliver solutions that meet business objectives and user needs, increasing team efficiency</li>
-            <li>Achieved 98% user accessibility by implementing WCAG 2.0 standards</li>
-            <li>Refactored the entire codebase by implementing a responsive and cross browser compatible design</li>
-          </ul>
-        </dd>
+        <div>
+          <dt>1. Commercial banking application for HSBCNet</dt>
+          <dd>
+            HSBCNet is a commercial banking payments and transfers service providing customers online access to a suite of global and regional payment types. It allows customers to schedule or make instant payments through web. Customers can make cross currency payments, as well as bulk payments. Customers can also create payment templates in order to use them multiple times in the future.
+            <ul>
+              <li>Played a key role in the ongoing development and enhancement of server-driven UI banking web application, contributing to design and feature implementation</li>
+              <li>Designed new, modular UI components to be used / documented in the in-house interactive pattern library using React Storybook</li>
+              <li>Improved team efficiency by 25% by participating in sprint planning, backlog grooming, and retrospectives to prioritize tasks and refine requirements</li>
+              <li>Involved in the migration of codebase from older DOJO technology to React</li>
+            </ul>
+          </dd>
+        </div>
+        <div>
+          <dt>2. Alias management application for HSBCNet</dt>
+          <dd>
+            Alias management is a platform that provides the ability to assign alternative names or identifiers to bank accounts, making it easier to identify them and manage payments. This functionality allows users to avoid using potentially cumbersome account numbers when making transactions or making it easier for others to send payments to specific accounts.
+            <ul>
+              <li>Extended the UI for an alias management system to support banking services in Hong Kong, Singapore and Malaysia</li>
+              <li>Collaborated closely with cross-functional teams to deliver solutions that meet business objectives and user needs, increasing team efficiency</li>
+              <li>Achieved 98% user accessibility by implementing WCAG 2.0 standards</li>
+              <li>Refactored the entire codebase by implementing a responsive and cross browser compatible design</li>
+            </ul>
+          </dd>
+        </div>
       </dl>
       <span class="experience-summary">
         During my 3.5-year tenure at Synechron, in addition to my development responsibilities, I assumed supervisory roles that included leading and mentoring junior team members. I conducted comprehensive code reviews to maintain high code quality standards, ensure optimal performance, and align deliverables with project objectives.
