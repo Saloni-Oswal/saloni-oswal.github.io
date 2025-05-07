@@ -42,7 +42,7 @@ header > p,
 li > b,
 dt,
 dl > dt > span.experience-summary {
-  color: ghostwhite;
+  color: #e2e8f0;
 }
 
 h2 > a {
@@ -73,7 +73,7 @@ dd {
 
 ul {
   padding-inline-start: 17px;
-  color: ghostwhite;
+  color: #e2e8f0;
   margin: 10px 0 60px 0;
 }
 
@@ -132,7 +132,7 @@ header {
   max-height: 100vh;
   top: 0;
   width: auto;
-  padding: 80px 0;
+  padding: 80px 0 10px 0;
   h1 {
     div.title {
       font-size: initial;
@@ -186,8 +186,8 @@ tr {
 
 td {
   border-bottom: none;
-  color: #0f172a;
-  background-color: #e2e8f0;
+  color: rgb(94 234 212 / 1);
+  background-color: rgba(45, 212, 191, 0.1);
   border-radius: 25px;
   margin: 0 10px 10px 0;
   align-self: flex-start;
