@@ -45,19 +45,26 @@ dl > dt > span.experience-summary {
   color: ghostwhite;
 }
 
+h2 > a {
+  font-weight: normal;
+}
+
 dt.experience-title {
   font-size: 1.2rem;
   margin-bottom: 10px;
+  font-weight: normal;
 }
 
 dt {
   font-weight: normal;
   margin-bottom: 5px;
+  font-size: 1rem;
 }
 
 dd {
   margin-inline-start: 0px;
-  color: #e2e8f0;
+  color: #94a3b8;
+  font-size: 0.9rem;
 }
 
 dl > dd:not(:last-child) {
@@ -66,7 +73,7 @@ dl > dd:not(:last-child) {
 
 ul {
   padding-inline-start: 17px;
-  color: #94a3b8;
+  color: ghostwhite;
   margin-top: 10px;
 }
 
@@ -82,7 +89,8 @@ a:focus {
 
 p {
   font-size: 1rem;
-  line-height: 1.8rem;
+  line-height: 1.6rem;
+  color: #94a3b8;
 }
 
 hr {
