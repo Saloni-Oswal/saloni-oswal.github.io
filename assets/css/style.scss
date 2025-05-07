@@ -67,7 +67,7 @@ dd {
   font-size: 0.9rem;
 }
 
-dl > dd:not(:last-child) {
+section.experience > dl > dd:not(:last-child) {
   margin-bottom: 60px;
 }
 
@@ -161,17 +161,12 @@ section {
   margin-bottom: 60px;
 }
 
-section.experience {
-  h2:not(:first-child) {
-    margin-top: 20px;
-  }
-}
-
 section > h1 {
   background-color: #134e4a;
   padding: 10px;
   margin-left: -10px;
   border-radius: 15px;
+  font-weight: normal;
 }
 
 h1 {
@@ -246,5 +241,9 @@ footer {
   img {
     height: 180px;
     width: 180px;
+  }
+
+  section#experience > dl > dd:not(:last-child) {
+    margin-bottom: 30px;
   }
 }
