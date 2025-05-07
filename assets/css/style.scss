@@ -152,6 +152,12 @@ section.experience {
   }
 }
 
+section > h1 {
+  background-color: #134e4a;
+  padding: 5px;
+  margin-left: -5px;
+}
+
 h1 {
   font-size: 1.6rem;
 }
@@ -177,8 +183,8 @@ tr {
 
 td {
   border-bottom: none;
-  color: #5eead4;
-  background-color: #134e4a;
+  color: #363736;
+  background-color: #d3d3d1;
   border-radius: 25px;
   margin: 0 10px 10px 0;
   align-self: flex-start;
