@@ -82,7 +82,7 @@ dl > div:hover {
 }
 
 dl > div {
-  margin: 15px 0px;
+  margin: 15px 0px 25px 0px;
   transition: 0.4s;
   padding: 25px;
   border-radius: 15px;
@@ -264,9 +264,11 @@ footer {
   }
   footer {
     padding: 0 25px 10px 25px;
-    p {
+    p,
+    small {
       display: flex;
       justify-content: center;
+      white-space: pre;
     }
   }
 }
@@ -314,6 +316,7 @@ footer {
 
   dl > div {
     padding: 5px;
+    margin: 15px 0px 45px 0px;
   }
 
   p {
@@ -326,9 +329,11 @@ footer {
 
   footer {
     padding: 0 25px 10px 25px;
-    p {
+    p,
+    small {
       display: flex;
       justify-content: center;
+      white-space: pre;
     }
   }
 }
