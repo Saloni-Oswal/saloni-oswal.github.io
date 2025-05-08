@@ -33,7 +33,6 @@ body {
   position: relative;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0px;
-  margin: 0 15%;
 }
 
 h1,
@@ -158,8 +157,9 @@ div.wrapper {
   display: flex;
   flex: 1;
   flex-direction: column;
-  margin-bottom: 100px;
+  margin: 0 15% 100px 15%;
   gap: 1rem;
+  width: auto;
   div {
     display: flex;
   }
