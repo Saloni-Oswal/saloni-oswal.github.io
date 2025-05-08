@@ -258,6 +258,16 @@ footer {
 @media (min-width: 961px) and (max-width: 1280px) {
   div.wrapper {
     margin: 0 6%;
+    div.content {
+      flex-direction: column;
+    }
+  }
+  footer {
+    padding: 0 25px 10px 25px;
+    p {
+      display: flex;
+      justify-content: center;
+    }
   }
 }
 
