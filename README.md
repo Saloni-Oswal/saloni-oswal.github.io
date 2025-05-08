@@ -82,43 +82,51 @@
     </dt>
     <dd>
       <dl>
-        <dt>1. Cross platform mobile application for Mobetize, Canada</dt>
-        <dd>
-          A mobile application that offers a payments solution allowing consumers to send international money transfers from their mobile devices seamlessly. It operates with third party exchange network which provides international remittance as a service. These vendors provide gateways to be used to process payments over the existing banking systems. The application supports four types of payments methods: Bank deposit, Cash pickup, Mobile wallet, Cash delivery.
-          <ul>
-            <li>Developed a cross-platform mobile application using React Native to build a payment transfer application which supported several payment methods</li>
-            <li>The application involved development of multiple features for delivering a complete payment solution involving selection of payment type, validations for mobile numbers and zip codes around the world, handling of regulatory terms and condition screens as per destination country, display of past transactions list, etc. </li>
-            <li>Delivered white-labelled mobile application for smartRemit and Ficanex, Canada which involved white labelling of application logo, colors, text styles and launch screen based on a configuration only change </li>
-          </ul>
-        </dd>
-        <dt>2. E-commerce website for UNIBEV Pepsiso, Kuwait</dt>
-        <dd>
-          An e-commerce web application for distributors to promote sales of an extensive range of PepsiCo products licensed for the Middle East amongst various wholesalers.
-          <ul>
-            <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely</li>
-            <li>Achieved 95% positive user feedback rate by implementing features like user authentication, product search, and dynamic filtering for an enhanced shopping experience</li>
-            <li>Implemented google tag management to support analytics reporting and achieve desired business goals</li>
-          </ul>
-        </dd>
-        <dt>3. Cross platform mobile application for lawyers and users in Kuwait</dt>
-        <dd>
-          A platform for lawyer and user communication where a user can view lawyer profiles containing lawyer information and their reviews, send request to multiple lawyers for hiring with a short description and their desired fee, lawyers can either accept or reject the request, lawyers who accept the request can communicate with users via chat messages, users can then hire lawyers and make payment. The development involved nuanced feature handling like polling for facilitating message chats, payment gateway integration for making payments and role based login system architecture.
-          <ul>
-            <li>Developed a feature-rich mobile application leveraging React Native capabilities to implement complex UI components and navigational flows for optimal performance, ensuring a consistent user experience across iOS and Android platforms</li>
-            <li>Enhanced app functionality and user engagement by 30% by integrating third-party APIs for functionalities such as push notifications and social media authentication</li>
-            <li>Built a new design system / web services consumption architecture to provide consistency and maintainability</li>
-          </ul>
-        </dd>
-        <dt>4. Customizable Caption Styles for ConexED</dt>
-        <dd>
-          ConexED is a web based platform suited to meet the requirements of the universities and colleges for a cloud based appointment management platform and collaborative virtual meeting environment. It is a video meeting web based application that connects students with instructors, tutors and staff, easily allowing screen-sharing and other features to replicate an in-person office visit.
-          <ul>
-            <li>Designed and implemented a feature to display closed captions to users, also providing a way to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
-            <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience</li>
-            <li>Worked with peers to conduct usability testing for gathering feedback and iterated on caption styling options, ensuring optimal readability and consistent experience across varied devices and environments</li>
-            <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team</li>
-          </ul>
-        </dd>
+        <div>
+          <dt>1. Cross platform mobile application for Mobetize, Canada</dt>
+          <dd>
+            A mobile application that offers a payments solution allowing consumers to send international money transfers from their mobile devices seamlessly. It operates with third party exchange network which provides international remittance as a service. These vendors provide gateways to be used to process payments over the existing banking systems. The application supports four types of payments methods: Bank deposit, Cash pickup, Mobile wallet, Cash delivery.
+            <ul>
+              <li>Developed a cross-platform mobile application using React Native to build a payment transfer application which supported several payment methods</li>
+              <li>The application involved development of multiple features for delivering a complete payment solution involving selection of payment type, validations for mobile numbers and zip codes around the world, handling of regulatory terms and condition screens as per destination country, display of past transactions list, etc. </li>
+              <li>Delivered white-labelled mobile application for smartRemit and Ficanex, Canada which involved white labelling of application logo, colors, text styles and launch screen based on a configuration only change </li>
+            </ul>
+          </dd>
+        </div>
+        <div>
+          <dt>2. E-commerce website for UNIBEV Pepsiso, Kuwait</dt>
+          <dd>
+            An e-commerce web application for distributors to promote sales of an extensive range of PepsiCo products licensed for the Middle East amongst various wholesalers.
+            <ul>
+              <li>Developed a scalable e-commerce platform using React and Redux, allowing users to browse products, add them to the cart, and complete transactions securely</li>
+              <li>Achieved 95% positive user feedback rate by implementing features like user authentication, product search, and dynamic filtering for an enhanced shopping experience</li>
+              <li>Implemented google tag management to support analytics reporting and achieve desired business goals</li>
+            </ul>
+          </dd>
+        </div>
+        <div>
+          <dt>3. Cross platform mobile application for lawyers and users in Kuwait</dt>
+          <dd>
+            A platform for lawyer and user communication where a user can view lawyer profiles containing lawyer information and their reviews, send request to multiple lawyers for hiring with a short description and their desired fee, lawyers can either accept or reject the request, lawyers who accept the request can communicate with users via chat messages, users can then hire lawyers and make payment. The development involved nuanced feature handling like polling for facilitating message chats, payment gateway integration for making payments and role based login system architecture.
+            <ul>
+              <li>Developed a feature-rich mobile application leveraging React Native capabilities to implement complex UI components and navigational flows for optimal performance, ensuring a consistent user experience across iOS and Android platforms</li>
+              <li>Enhanced app functionality and user engagement by 30% by integrating third-party APIs for functionalities such as push notifications and social media authentication</li>
+              <li>Built a new design system / web services consumption architecture to provide consistency and maintainability</li>
+            </ul>
+          </dd>
+        </div>
+        <div>
+          <dt>4. Customizable Caption Styles for ConexED</dt>
+          <dd>
+            ConexED is a web based platform suited to meet the requirements of the universities and colleges for a cloud based appointment management platform and collaborative virtual meeting environment. It is a video meeting web based application that connects students with instructors, tutors and staff, easily allowing screen-sharing and other features to replicate an in-person office visit.
+            <ul>
+              <li>Designed and implemented a feature to display closed captions to users, also providing a way to customize caption styles, including font size, color, and background opacity, to cater to individual preferences and accessibility needs.</li>
+              <li>Leveraged CSS for styling flexibility and dynamic updating of caption display settings, providing a visually appealing and customizable user experience</li>
+              <li>Worked with peers to conduct usability testing for gathering feedback and iterated on caption styling options, ensuring optimal readability and consistent experience across varied devices and environments</li>
+              <li>Actively participated in code reviews, knowledge sharing sessions, and continuous learning initiatives to foster a culture of collaboration and excellence within the development team</li>
+            </ul>
+          </dd>
+        </div>
       </dl>
       <span class="experience-summary">
         During my 3.5-year tenure with Spring, I actively engaged in stakeholder meetings and collaborated on scope and design discussions. I played a pivotal role in decision-making processes, aiding in the selection of optimal design patterns and architectures for various projects. Additionally, I assumed leadership responsibilities within development teams and made significant contributions to the development of Minimum Viable Products (MVPs) aimed at prospective clients, as well as worked independently to develop POCs.
