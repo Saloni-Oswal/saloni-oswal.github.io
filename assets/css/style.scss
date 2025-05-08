@@ -157,11 +157,12 @@ div.wrapper {
   display: flex;
   flex: 1;
   flex-direction: column;
-  margin: 0 15% 100px 15%;
+  margin: 0 15%;
   gap: 1rem;
   width: auto;
-  div {
+  div.content {
     display: flex;
+    margin-bottom: 100px;
   }
 }
 
