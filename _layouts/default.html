@@ -28,8 +28,7 @@
     <meta property="og:url" content="https://saloni-oswal.github.io/" />
   </head>
   
-  <body>
-    <div class="radial-gradient"></div>
+  <body class="radial-gradient">
     <div class="wrapper">
       <aside>
         <h1>
@@ -94,11 +93,11 @@
       <main id="content">
           {{ content }}
       </main>
+      <footer>
+        <p>Built and maintained by <a href="{{ site.github.owner_url }}">yours truly.</a></p>
+        <div><small>Hosted on GitHub Pages</small></div>
+      </footer>
     </div>
-    <footer>
-      <p>Built and maintained by <a href="{{ site.github.owner_url }}">yours truly.</a></p>
-      <div><small>Hosted on GitHub Pages</small></div>
-    </footer>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

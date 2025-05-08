@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-div.radial-gradient {
+.radial-gradient {
   position: absolute;
   transition-duration: 0.3s;
   transition-property: color, background-color, border-color,
@@ -24,10 +24,11 @@ body {
   color: #e2e8f0;
   margin: 0px;
   display: flex;
+  flex: 1;
   position: relative;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0px;
-  flex: 1;
+  margin: 0 15%;
 }
 
 h1,
@@ -151,7 +152,7 @@ div.social-icon {
 div.wrapper {
   display: flex;
   flex: 1;
-  margin: 0 15%;
+  margin-bottom: 100px;
   gap: 1rem;
 }
 
