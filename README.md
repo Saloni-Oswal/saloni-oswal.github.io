@@ -1,5 +1,6 @@
 <section id="about" class="about">
   <h1>Background</h1>
+  <div>
     <p>
       In 2016, fresh off completing my Master's in Computer Science, I embarked on a journey to explore web development by creating a custom static website. Little did I know, this venture would plunge me deep into the captivating world of coding and web development. Fast-forward to the present day, and I've had the honor of crafting software solutions for diverse clients, including an e-commerce giant, a prominent multinational banking corporation, and several other innovative MVPs. My true passion lies at the intersection of design and engineering, where I relish in crafting software that not only boasts aesthetic appeal but also operates flawlessly beneath the surface.
     </p>
@@ -12,6 +13,7 @@
       When I'm not immersed in code, you can often find me exploring the vibrant streets of NYC, camera in hand, capturing moments of life and architecture. I have a penchant for savoring a good cup of coffee while delving into the city's myriad cultural offerings. Additionally, I'm an avid enthusiast of outdoor activities, always eager to embrace new adventures and experiences in nature.
     </p>
 
+  </div>
 </section>
 
 <section id="skills" class="skills">

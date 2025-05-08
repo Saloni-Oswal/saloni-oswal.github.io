@@ -105,10 +105,20 @@ a:focus {
   font-weight: inherit;
 }
 
+section.about > div {
+  border-radius: 15px;
+}
+
+section.about > div:hover {
+  background-color: rgba(45, 212, 191, 0.1);
+}
+
 p {
   font-size: 0.9rem;
   line-height: 1.6rem;
   color: #94a3b8;
+  padding: 25px;
+  margin: 0px;
 }
 
 hr {
