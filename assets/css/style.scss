@@ -232,6 +232,7 @@ footer {
   p {
     font-size: 0.875rem;
     margin: 0px;
+    padding: 0px;
   }
 }
 
@@ -275,7 +276,7 @@ footer {
     width: 180px;
   }
 
-  section#experience > dl > dd:not(:last-child) {
-    margin-bottom: 30px;
+  dl > div {
+    padding: 5px;
   }
 }
