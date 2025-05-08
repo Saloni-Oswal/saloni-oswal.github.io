@@ -276,6 +276,9 @@ footer {
     flex-direction: column;
     margin: 0;
     width: auto;
+    div.content {
+      flex-direction: column;
+    }
   }
 
   main#content {
@@ -319,5 +322,13 @@ footer {
 
   tr {
     padding: 5px;
+  }
+
+  footer {
+    padding: 0 25px 10px 25px;
+    p {
+      display: flex;
+      justify-content: center;
+    }
   }
 }
