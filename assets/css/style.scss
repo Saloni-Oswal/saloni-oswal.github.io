@@ -111,6 +111,9 @@ section.about > div {
 
 section.about > div:hover {
   background-color: rgba(45, 212, 191, 0.1);
+  p {
+    color: #e2e8f0;
+  }
 }
 
 p {
