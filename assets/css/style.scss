@@ -38,7 +38,7 @@ h5,
 h6,
 a,
 strong,
-header > p,
+aside > p,
 li > b,
 dt,
 dl > dd > span.experience-summary {
@@ -155,7 +155,7 @@ div.wrapper {
   gap: 1rem;
 }
 
-header {
+aside {
   display: flex;
   flex-direction: column;
   flex: 0.5;
@@ -261,7 +261,7 @@ footer {
     padding: 0px 25px;
   }
 
-  header {
+  aside {
     padding: 25px 0 0 0;
     top: auto;
     max-height: fit-content;

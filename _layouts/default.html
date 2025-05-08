@@ -31,7 +31,7 @@
   <body>
     <div class="radial-gradient"></div>
     <div class="wrapper">
-      <header>
+      <aside>
         <h1>
           <a href="{{ "/" | absolute_url }}">{{ site.name | default: site.github.repository_name }}</a>
           <div class="title">{{ site.position }}</div>
@@ -90,17 +90,15 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-      </header>
+      </aside>
       <main id="content">
           {{ content }}
       </main>
-
-      <footer>
-        <p>Built and maintained by <a href="{{ site.github.owner_url }}">yours truly.</a></p>
-        <div><small>Hosted on GitHub Pages</small></div>
-      </footer>
-      
     </div>
+    <footer>
+      <p>Built and maintained by <a href="{{ site.github.owner_url }}">yours truly.</a></p>
+      <div><small>Hosted on GitHub Pages</small></div>
+    </footer>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
